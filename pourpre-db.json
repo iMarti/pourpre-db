@@ -1,0 +1,161 @@
+﻿{
+	"$schema": "https://github.com/iMarti/pourpre-db/raw/master/pourpre-schema.json",
+	"colorNames": [
+		{
+			"name": "abricot",
+			"agreement": false,
+			"etymology": "arabe <em>al-barqoûq</em> : le fruit précoce",
+			"definition": "Orange rosé doux.",
+			"rgb": "E67E30",
+			"fidelity": "**",
+			"hue": 25,
+			"saturation": 62,
+			"lightness": 56,
+			"field": "orange"
+		},
+		{
+			"name": "absinthe",
+			"agreement": false,
+			"etymology": "latin <em>absinthium</em>",
+			"definition": "Vert clair tirant sur le jaune. Couleur de la liqueur de même nom. Moins jaune et plus soutenu que le vert anis.",
+			"rgb": "7FDD4C",
+			"fidelity": "*",
+			"hue": 100,
+			"saturation": 50,
+			"lightness": 75,
+			"field": "vert"
+		},
+		{
+			"name": "acajou",
+			"agreement": false,
+			"etymology": "tupi <em>acaiou</em>",
+			"definition": "Brun-roux soutenu, couleur du bois d'acajou.",
+			"rgb": "88421D",
+			"fidelity": "**",
+			"hue": 20,
+			"saturation": 37,
+			"lightness": 31,
+			"field": "brun"
+		},
+		{
+			"name": "bleu acier",
+			"agreement": false,
+			"definition": "Bleu froid et passé, à reflets métalliques.",
+			"example": "des yeux bleu acier",
+			"rgb": "3A8EBA",
+			"fidelity": "**",
+			"hue": 200,
+			"saturation": 44,
+			"lightness": 50,
+			"field": "bleu"
+		},
+		{
+			"name": "gris acier",
+			"agreement": false,
+			"definition": "Gris clair à reflets métalliques.",
+			"rgb": "AFAFAF",
+			"fidelity": "**",
+			"hue": null,
+			"saturation": 0,
+			"lightness": 69,
+			"field": "gris"
+		},
+		{
+			"name": "aigue-marine",
+			"agreement": false,
+			"definition": "Cyan lumineux, transparent.",
+			"rgb": "79F8F8",
+			"fidelity": "***",
+			"hue": 180,
+			"saturation": 50,
+			"lightness": 87,
+			"field": "bleu"
+		},
+		{
+			"name": "aile de corbeau",
+			"agreement": false,
+			"definition": "Noir à reflets bleutés.",
+			"rgb": "000000",
+			"fidelity": "***",
+			"hue": null,
+			"saturation": 0,
+			"lightness": 0,
+			"field": "noir",
+			"domain": "cheveux",
+			"synonym": "jais"
+		},
+		{
+			"name": "albâtre",
+			"variant": "d'albâtre",
+			"agreement": false,
+			"etymology": "grec <em>alabastron</em>",
+			"definition": "Blanc translucide et éclatant.",
+			"note": "Souvent employé pour qualifier la couleur d'une partie du corps.",
+			"example": "un cou d'albâtre",
+			"rgb": "FEFEFE",
+			"fidelity": "***",
+			"hue": null,
+			"saturation": 0,
+			"lightness": 100,
+			"field": "blanc"
+		},
+		{
+			"name": "alezan",
+			"agreement": true,
+			"feminine": "alezane",
+			"definition": "Robe unie jaune rougeâtre. Constitue, avec blanc, café au lait et noir, les quatre types de robes simples.",
+			"rgb": "A76726",
+			"fidelity": "***",
+			"hue": 30,
+			"saturation": 44,
+			"lightness": 44,
+			"field": "brun",
+			"domain": "chevaux"
+		},
+		{
+			"name": "rouge d'alizarine",
+			"agreement": false,
+			"definition": "Rouge soutenu.",
+			"note": "L'alizarine est une matière colorante, originellement tirée de la racine de garance.",
+			"etymology": "arabe <em>al-`usâra</em> : le jus",
+			"rgb": "D90115",
+			"fidelity": "**",
+			"hue": 355,
+			"saturation": 81,
+			"lightness": 19,
+			"field": "rouge",
+			"domain": "pigment"
+		}
+	],
+	"qualifiers": [
+		{
+			"name": "acide",
+			"agreement": true,
+			"example": {
+				"plain": "vert",
+				"plainColor": "3AEC3A",
+				"qualified": "vert acide",
+				"qualifiedColor": "82F40F"
+			}
+		},
+		{
+			"name": "acidulé",
+			"agreement": true,
+			"feminine": "acidulée",
+			"example": {
+				"plain": "orange",
+				"plainColor": "EDA915",
+				"qualified": "orange acidulé",
+				"qualifiedColor": "FCB61E"
+			}
+		},
+		{
+			"name": "albugineux",
+			"agreement": true,
+			"feminine": "albugineuse",
+			"etymology": "latin <em>albus</em> : blanc",
+			"domain": "médical",
+			"synonym": "blanchâtre"
+		}
+	]
+}
