@@ -1,0 +1,93 @@
+﻿{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"properties": {
+		"colorNames": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string"
+					},
+					"agreement": {
+						"type": "boolean"
+					},
+					"feminine": {
+						"type": "string"
+					},
+					"definition": {
+						"type": "string"
+					},
+					"rgb": {
+						"type": "string"
+					},
+					"fidelity": {
+						"type": "string"
+					},
+					"hue": {
+						"type": [ "integer", "null" ]
+					},
+					"saturation": {
+						"type": "integer"
+					},
+					"lightness": {
+						"type": "integer"
+					},
+					"field": {
+						"type": "string"
+					},
+					"domain": {
+						"type": "string"
+					}
+				},
+				"required": [
+					"name",
+					"agreement",
+					"definition",
+					"rgb",
+					"fidelity",
+					"hue",
+					"saturation",
+					"lightness",
+					"field"
+				]
+			}
+		},
+		"qualifiers": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string"
+					},
+					"agreement": {
+						"type": "boolean"
+					},
+					"feminine": {
+						"type": "string"
+					},
+					"etymology": {
+						"type": "string"
+					},
+					"domain": {
+						"type": "string"
+					},
+					"synonym": {
+						"type": "string"
+					}
+				},
+				"required": [
+					"name",
+					"agreement",
+					"domain"
+				]
+			}
+		}
+	},
+	"required": [
+		"colorNames",
+		"qualifiers"
+	]
+}
