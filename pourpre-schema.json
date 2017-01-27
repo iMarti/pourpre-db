@@ -7,49 +7,36 @@
 			"items": {
 				"type": "object",
 				"properties": {
-					"name": {
-						"type": "string"
+					"name": { "type": "string" },
+					"synonym": { "type": "string" },
+					"agreement": { "type": "boolean" },
+					"feminine": { "type": "string" },
+					"definition": { "type": "string" },
+					"etymology": { "type": "string" },
+					"example": { "type": "string" },
+					"colors": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"rgb": { "type": "string" },
+								"fidelity": { "type": "string" },
+								"hue": { "type": [ "integer", "null" ] },
+								"saturation": { "type": "integer" },
+								"lightness": { "type": "integer" }
+							},
+							"required": [
+								"rgb"
+							]
+						}
 					},
-					"agreement": {
-						"type": "boolean"
-					},
-					"feminine": {
-						"type": "string"
-					},
-					"definition": {
-						"type": "string"
-					},
-					"rgb": {
-						"type": "string"
-					},
-					"fidelity": {
-						"type": "string"
-					},
-					"hue": {
-						"type": [ "integer", "null" ]
-					},
-					"saturation": {
-						"type": "integer"
-					},
-					"lightness": {
-						"type": "integer"
-					},
-					"field": {
-						"type": "string"
-					},
-					"domain": {
-						"type": "string"
-					}
+					"field": { "type": "string" },
+					"domain": { "type": "string" }
 				},
 				"required": [
 					"name",
 					"agreement",
 					"definition",
-					"rgb",
-					"fidelity",
-					"hue",
-					"saturation",
-					"lightness",
 					"field"
 				]
 			}
@@ -59,24 +46,12 @@
 			"items": {
 				"type": "object",
 				"properties": {
-					"name": {
-						"type": "string"
-					},
-					"agreement": {
-						"type": "boolean"
-					},
-					"feminine": {
-						"type": "string"
-					},
-					"etymology": {
-						"type": "string"
-					},
-					"domain": {
-						"type": "string"
-					},
-					"synonym": {
-						"type": "string"
-					}
+					"name": { "type": "string" },
+					"agreement": { "type": "boolean" },
+					"feminine": { "type": "string" },
+					"etymology": { "type": "string" },
+					"domain": { "type": "string" },
+					"synonym": { "type": "string" }
 				},
 				"required": [
 					"name",

@@ -1,16 +1,20 @@
 ﻿{
-	"$schema": "https://github.com/iMarti/pourpre-db/raw/master/pourpre-schema.json",
+	"$schema": "pourpre-schema.json",
 	"colorNames": [
 		{
 			"name": "abricot",
 			"agreement": false,
 			"etymology": "arabe <em>al-barqoûq</em> : le fruit précoce",
 			"definition": "Orange rosé doux.",
-			"rgb": "E67E30",
-			"fidelity": "**",
-			"hue": 25,
-			"saturation": 62,
-			"lightness": 56,
+			"colors": [
+				{
+					"rgb": "E67E30",
+					"fidelity": "**",
+					"hue": 25,
+					"saturation": 62,
+					"lightness": 56
+				}
+			],
 			"field": "orange"
 		},
 		{
@@ -18,11 +22,15 @@
 			"agreement": false,
 			"etymology": "latin <em>absinthium</em>",
 			"definition": "Vert clair tirant sur le jaune. Couleur de la liqueur de même nom. Moins jaune et plus soutenu que le vert anis.",
-			"rgb": "7FDD4C",
-			"fidelity": "*",
-			"hue": 100,
-			"saturation": 50,
-			"lightness": 75,
+			"colors": [
+				{
+					"rgb": "7FDD4C",
+					"fidelity": "*",
+					"hue": 100,
+					"saturation": 50,
+					"lightness": 75
+				}
+			],
 			"field": "vert"
 		},
 		{
@@ -30,11 +38,15 @@
 			"agreement": false,
 			"etymology": "tupi <em>acaiou</em>",
 			"definition": "Brun-roux soutenu, couleur du bois d'acajou.",
-			"rgb": "88421D",
-			"fidelity": "**",
-			"hue": 20,
-			"saturation": 37,
-			"lightness": 31,
+			"colors": [
+				{
+					"rgb": "88421D",
+					"fidelity": "**",
+					"hue": 20,
+					"saturation": 37,
+					"lightness": 31
+				}
+			],
 			"field": "brun"
 		},
 		{
@@ -42,44 +54,60 @@
 			"agreement": false,
 			"definition": "Bleu froid et passé, à reflets métalliques.",
 			"example": "des yeux bleu acier",
-			"rgb": "3A8EBA",
-			"fidelity": "**",
-			"hue": 200,
-			"saturation": 44,
-			"lightness": 50,
+			"colors": [
+				{
+					"rgb": "3A8EBA",
+					"fidelity": "**",
+					"hue": 200,
+					"saturation": 44,
+					"lightness": 50
+				}
+			],
 			"field": "bleu"
 		},
 		{
 			"name": "gris acier",
 			"agreement": false,
 			"definition": "Gris clair à reflets métalliques.",
-			"rgb": "AFAFAF",
-			"fidelity": "**",
-			"hue": null,
-			"saturation": 0,
-			"lightness": 69,
+			"colors": [
+				{
+					"rgb": "AFAFAF",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 69
+				}
+			],
 			"field": "gris"
 		},
 		{
 			"name": "aigue-marine",
 			"agreement": false,
 			"definition": "Cyan lumineux, transparent.",
-			"rgb": "79F8F8",
-			"fidelity": "***",
-			"hue": 180,
-			"saturation": 50,
-			"lightness": 87,
+			"colors": [
+				{
+					"rgb": "79F8F8",
+					"fidelity": "***",
+					"hue": 180,
+					"saturation": 50,
+					"lightness": 87
+				}
+			],
 			"field": "bleu"
 		},
 		{
 			"name": "aile de corbeau",
 			"agreement": false,
 			"definition": "Noir à reflets bleutés.",
-			"rgb": "000000",
-			"fidelity": "***",
-			"hue": null,
-			"saturation": 0,
-			"lightness": 0,
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			],
 			"field": "noir",
 			"domain": "cheveux",
 			"synonym": "jais"
@@ -92,11 +120,15 @@
 			"definition": "Blanc translucide et éclatant.",
 			"note": "Souvent employé pour qualifier la couleur d'une partie du corps.",
 			"example": "un cou d'albâtre",
-			"rgb": "FEFEFE",
-			"fidelity": "***",
-			"hue": null,
-			"saturation": 0,
-			"lightness": 100,
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			],
 			"field": "blanc"
 		},
 		{
@@ -104,11 +136,15 @@
 			"agreement": true,
 			"feminine": "alezane",
 			"definition": "Robe unie jaune rougeâtre. Constitue, avec blanc, café au lait et noir, les quatre types de robes simples.",
-			"rgb": "A76726",
-			"fidelity": "***",
-			"hue": 30,
-			"saturation": 44,
-			"lightness": 44,
+			"colors": [
+				{
+					"rgb": "A76726",
+					"fidelity": "***",
+					"hue": 30,
+					"saturation": 44,
+					"lightness": 44
+				}
+			],
 			"field": "brun",
 			"domain": "chevaux"
 		},
@@ -118,13 +154,74 @@
 			"definition": "Rouge soutenu.",
 			"note": "L'alizarine est une matière colorante, originellement tirée de la racine de garance.",
 			"etymology": "arabe <em>al-`usâra</em> : le jus",
-			"rgb": "D90115",
-			"fidelity": "**",
-			"hue": 355,
-			"saturation": 81,
-			"lightness": 19,
+			"colors": [
+				{
+					"rgb": "D90115",
+					"fidelity": "**",
+					"hue": 355,
+					"saturation": 81,
+					"lightness": 19
+				}
+			],
 			"field": "rouge",
 			"domain": "pigment"
+		},
+		{
+			"name": "amande",
+			"agreement": false,
+			"definition": "Vert doux, tirant légèrement sur le jaune.",
+			"etymology": "grec <em>amygdalê</em>",
+			"colors": [
+				{
+					"rgb": "82C46C",
+					"fidelity": "***",
+					"hue": 106,
+					"saturation": 31,
+					"lightness": 69
+				}
+			],
+			"field": "vert"
+		},
+		{
+			"name": "amarante",
+			"agreement": false,
+			"definition": "Rouge bordeaux velouté.",
+			"synonym": "passe-velours, queue-de-renard.",
+			"colors": [
+				{
+					"rgb": "91283B",
+					"fidelity": "***",
+					"hue": 350,
+					"saturation": 38,
+					"lightness": 25
+				}
+			],
+			"etymology": "grec <em>amarantos</em> : qui ne se flétrit pas",
+			"field": "rouge"
+		},
+		{
+			"name": "ambre",
+			"agreement": false,
+			"definition": "Jaune profond doré ou rougeâtre. Implique souvent une idée de transparence.",
+			"example": "un chat aux yeux ambre",
+			"etymology": "arabe <em>al-`anbar</em>",
+			"colors": [
+				{
+					"rgb": "F0C300",
+					"fidelity": "***",
+					"hue": 50,
+					"saturation": 87,
+					"lightness": 75
+				},
+				{
+					"rgb": "AD390E",
+					"fidelity": "***",
+					"hue": 15,
+					"saturation": 56,
+					"lightness": 31
+				}
+			],
+			"field": "jaune"
 		}
 	],
 	"qualifiers": [
