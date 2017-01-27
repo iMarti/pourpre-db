@@ -40,11 +40,15 @@
 					},
 					"field": {
 						"type": [ "string", "null" ],
-						"enum": [ null, "orange", "vert", "brun", "bleu", "gris", "noir", "blanc", "rouge", "jaune", "violet" ]
+						"enum": [ null, "orange", "vert", "brun", "bleu", "gris", "noir", "blanc", "rouge", "jaune", "violet", "rose" ]
 					},
 					"domain": {
 						"type": "string",
-						"enum": [ "cheveux", "chevaux", "pigment" ]
+						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau" ]
+					},
+					"style": {
+						"type": "string",
+						"enum": [ "vieilli", "péjoratif" ]
 					}
 				},
 				"required": [
@@ -68,6 +72,7 @@
 					"agreement": { "type": "boolean" },
 					"feminine": { "type": "string" },
 					"etymology": { "type": "string" },
+					"note": { "type": "string" },
 					"domain": {
 						"type": "string",
 						"enum": [ "médical" ]

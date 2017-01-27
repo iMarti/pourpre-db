@@ -493,6 +493,274 @@
 					"lightness": 6
 				}
 			]
+		},
+		{
+			"name": "auburn",
+			"definition": "Châtain-roux à reflets cuivrés.",
+			"agreement": false,
+			"domain": "cheveux",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "9D3E0C",
+					"fidelity": "*",
+					"hue": 20,
+					"saturation": 50,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "jaune auréolin",
+			"definition": "Jaune d'or doux, transparent.",
+			"note": "\"Pigment jaune transparent (cobalto-nitrite de potassium), encore appelé jaune de cobalt, commercialisé au XIXème siècle par la firme Winsor & Newton sous le nom d'\"Aureolin\".\"",
+			"agreement": false,
+			"etymology": "latin <em>aureola</em> : couleur d'or",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "EFD242",
+					"fidelity": "*",
+					"hue": 51,
+					"saturation": 63,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "aurore",
+			"definition": "Orangé clair ou jaune doré.",
+			"agreement": false,
+			"etymology": "latin <em>aurora</em>",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFCB60",
+					"fidelity": "**",
+					"hue": 41,
+					"saturation": 55,
+					"lightness": 81
+				},
+				{
+					"rgb": "F8CD59",
+					"fidelity": "*",
+					"hue": 45,
+					"saturation": 56,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "avocat",
+			"definition": "Vert sombre soutenu tirant sur le jaune.",
+			"agreement": false,
+			"variants": [ "vert avocat" ],
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "568203",
+					"fidelity": "**",
+					"hue": 80,
+					"saturation": 44,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "azur",
+			"definition": "Bleu clair intense.",
+			"synonym": "cérulé",
+			"note": "Bleu de l'oxyde de cobalt.",
+			"agreement": false,
+			"etymology": "persan <em>lâdjeward</em> : lapis lazuli",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "74D0F1",
+					"fidelity": "***",
+					"hue": 195,
+					"saturation": 44,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "azur",
+			"definition": "",
+			"agreement": false,
+			"field": "bleu",
+			"domain": "héraldique",
+			"colors": [
+				{
+					"rgb": "1E7FCB",
+					"fidelity": "**",
+					"hue": 206,
+					"saturation": 59,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "azuré",
+			"definition": "De couleur azur ou d'une teinte légèrement bleutée.",
+			"agreement": true,
+			"feminine": "azurée",
+			"field": "bleu"
+		},
+		{
+			"name": "azurin",
+			"definition": "Bleu pâle tirant sur le bleu azur.",
+			"agreement": true,
+			"feminine": "azurine",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "A9EAFE",
+					"fidelity": "***",
+					"hue": 193,
+					"saturation": 30,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "bai",
+			"definition": "Robe alezane, extrémités et crins noirs. Constitue, avec isabelle et souris, les trois types de robes composées.",
+			"agreement": true,
+			"feminine": "baie",
+			"domain": "chevaux",
+			"etymology": "latin <em>badius</em> : brun"
+		},
+		{
+			"name": "baillet",
+			"definition": "Robe rousse tirant sur le blanc.",
+			"agreement": true,
+			"etymology": "anc. français <em>baille</em>",
+			"domain": "chevaux",
+			"style": "vieilli",
+			"colors": [
+				{
+					"rgb": "AE642D",
+					"hue": 25,
+					"saturation": 44,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "balais",
+			"definition": "Rose pâle ou rouge violacé. Exclusivement utilisé pour désigner la teinte particulière de la variété de rubis de même nom.",
+			"domain": "minéraux",
+			"example": "un rubis balais",
+			"field": "rose",
+			"etymology": "arabe <em>balakhtch</em> : de la région de Balakhchân",
+			"agreement": false,
+			"colors": [
+				{
+					"rgb": "C4698F",
+					"hue": 335,
+					"saturation": 31,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "banane",
+			"definition": "Jaune brûni profond.",
+			"variants": [ "jaune banane" ],
+			"agreement": false,
+			"etymology": "d'un dialecte de Guinée",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "D1B606",
+					"fidelity": "**",
+					"hue": 53,
+					"saturation": 75,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "bleu barbeau",
+			"synonym": "bleu bleuet",
+			"agreement": false,
+			"note": "Ancien nom de la fleur de bleuet.",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "5472AE",
+					"fidelity": "*",
+					"hue": 221,
+					"saturation": 31,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "basané",
+			"domain": "peau",
+			"agreement": true,
+			"feminine": "basaée",
+			"etymology": "arabe <em>bitana</em>",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "8B6C42",
+					"fidelity": "*",
+					"hue": 35,
+					"saturation": 25,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "beige",
+			"definition": "Brun-jaune très clair, légèrement grisâtre. Couleur de la laine naturelle.",
+			"agreement": true,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "C8AD7F",
+					"fidelity": "**",
+					"hue": 39,
+					"saturation": 25,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "beigeasse",
+			"definition": "D'un beige sale.",
+			"agreement": true,
+			"style": "péjoratif",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "AFA77B",
+					"fidelity": "**",
+					"hue": 52,
+					"saturation": 19,
+					"lightness": 65
+				}
+			]
+		},
+		{
+			"name": "bleu de Berlin",
+			"note": "\"Parfois commercialisé également sous les noms de \"bleu d'Anvers\" ou de \"bleu minéral\".\"",
+			"agreement": false,
+			"etymology": "nom propre <em>Berlin</em> : nom de la ville",
+			"field": "bleu",
+			"synonym": "bleu de Prusse",
+			"colors": [
+				{
+					"rgb": "24445C",
+					"fidelity": "***",
+					"hue": 205,
+					"saturation": 19,
+					"lightness": 25
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -538,6 +806,25 @@
 			"field": "blanc",
 			"agreement": true,
 			"feminine": "argilacée"
+		},
+		{
+			"name": "bariolé",
+			"definition": "De plusieurs couleurs mal assorties.",
+			"note": "Verbe : barioler",
+			"agreement": true,
+			"feminine": "bariolée"
+		},
+		{
+			"name": "beigeâtre",
+			"definition": "Qui tire vaguement sur le beige.",
+			"agreement": true,
+			"field": "brun",
+			"example": {
+				"plain": "F5F561",
+				"plainColor": "jaune",
+				"qualified": "ECE37A",
+				"qualifiedColor": "jaune beigeâtre"
+			}
 		},
 		{
 			"name": "blanchâtre",
