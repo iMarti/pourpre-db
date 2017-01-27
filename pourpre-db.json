@@ -114,7 +114,7 @@
 		},
 		{
 			"name": "albâtre",
-			"variant": "d'albâtre",
+			"variants": [ "d'albâtre" ],
 			"agreement": false,
 			"etymology": "grec <em>alabastron</em>",
 			"definition": "Blanc translucide et éclatant.",
@@ -222,6 +222,277 @@
 				}
 			],
 			"field": "jaune"
+		},
+		{
+			"name": "ambré",
+			"definition": "Qui a la teinte dorée de l'ambre jaune.",
+			"example": "des liqueurs ambrées",
+			"agreement": true,
+			"feminine": "ambrée",
+			"field": "jaune"
+		},
+		{
+			"name": "améthyste",
+			"definition": "Entre lilas clair et violet passé. Sous-entend une certaine transparence.",
+			"agreement": false,
+			"etymology": "grec <em>a-methuein</em> : qui préserve de l'ivresse",
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "884DA7",
+					"fidelity": "**",
+					"hue": 280,
+					"saturation": 31,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "rouge d'Andrinople",
+			"agreement": false,
+			"definition": "Rouge profond",
+			"synonym": "rouge turc",
+			"variants": [ "rouge d'Andrinople", "rouge Andrinople" ],
+			"etymology": "nom propre <em>Andrinople</em> : ville turque",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "A91101",
+					"fidelity": "*",
+					"hue": 5,
+					"saturation": 63,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "rouge anglais",
+			"definition": "Rouge légèrement rosé. Employé en peinture à l'huile.",
+			"synonym": "rouge de Mars",
+			"agreement": false,
+			"field": "rouge",
+			"note": "D'autres sources définissent le rouge anglais comme un rouge bien plus rabattu et violeté. Une enquête est en cours.",
+			"colors": [
+				{
+					"rgb": "BD4A4F",
+					"hue": 358,
+					"saturation": 44,
+					"lightness": 39
+				}
+			]
+		},
+		{
+			"name": "vert anglais",
+			"definition": "Vert sombre doux.",
+			"synonym": "vert de chrome",
+			"note": "En peinture, mélange de bleu de Prusse et de jaune de chrome.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "18391E",
+					"fidelity": "***",
+					"hue": 130,
+					"saturation": 12,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "noir d'aniline",
+			"definition": "Noir violacé",
+			"agreement": false,
+			"field": "noir",
+			"etymology": "persan <em>nil</em> : indigo",
+			"colors": [
+				{
+					"rgb": "120D16",
+					"fidelity": "**",
+					"hue": 274,
+					"saturation": 3,
+					"lightness": 6
+				}
+			]
+		},
+		{
+			"name": "rouge d'aniline",
+			"definition": "Rouge vif.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "ED0000",
+					"fidelity": "*",
+					"hue": 0,
+					"saturation": 93,
+					"lightness": 20
+				}
+			]
+		},
+		{
+			"name": "noir animal",
+			"definition": "Noir pur, tiré de la poudre d'os calcinés.",
+			"note": "Emmanuel Luc me précise qu'il ne s'agit pas d'un pigment, mais d'un siccatif pour les huiles.",
+			"agreement": false,
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "vert anis",
+			"definition": "Vert clair passé teinté de jaune.",
+			"agreement": false,
+			"etymology": "latin <em>anisum</em>",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "9FE855",
+					"fidelity": "***",
+					"hue": 90,
+					"saturation": 50,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "anthracite",
+			"definition": "Gris neutre très sombre.",
+			"variants": [ "gris anthracite" ],
+			"agreement": false,
+			"etymology": "grec <em>anthrakos</em> : charbon",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "303030",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "aquilain",
+			"definition": "Fauve",
+			"domain": "chevaux",
+			"agreement": false,
+			"field": null
+		},
+		{
+			"name": "ardoise",
+			"definition": "Gris foncé neutre à bleuté.",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "5A5E6B",
+					"fidelity": "***",
+					"hue": 230,
+					"saturation": 6,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "bleu ardoise",
+			"definition": "Bleu terne grisé. Plus bleu qu'ardoise.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "686F8C",
+					"fidelity": "***",
+					"hue": 229,
+					"saturation": 13,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "argent",
+			"definition": "Gris neutre clair à très clair. Induit souvent une idée de brillance.",
+			"example": "une chevelure argent",
+			"agreement": false,
+			"etymology": "latin <em>argentum</em>",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "CECECE",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "blanc d'argent",
+			"definition": "",
+			"synonym": "blanc de céruse",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "argile",
+			"definition": "Généralement, blanc grisâtre. Mais peut également correspondre à une teinte crème, ocre pâle, voire pêche grisâtre ou coquille d'oeuf.",
+			"agreement": false,
+			"field": "blanc",
+			"etymology": "latin <em>argila</em>",
+			"colors": [
+				{
+					"rgb": "EFEFEF",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "arzel",
+			"definition": "Aux pattes arrières et au chanfrein blanc.",
+			"domain": "chevaux",
+			"agreement": false
+		},
+		{
+			"name": "aubère",
+			"definition": "Robe à poils blancs et alezans mélangés. Constitue, avec gris et louvet, les trois types de robes mélangées.",
+			"domain": "chevaux",
+			"etymology": "espagnol <em>hobero</em>",
+			"agreement": true
+		},
+		{
+			"name": "aubergine",
+			"definition": "Magenta-pourpre à violet, très sombre.",
+			"field": "violet",
+			"agreement": false,
+			"etymology": "persan <em>bâdindjân</em>",
+			"colors": [
+				{
+					"rgb": "370028",
+					"fidelity": "***",
+					"hue": 315,
+					"saturation": 19,
+					"lightness": 6
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -253,6 +524,32 @@
 			"etymology": "latin <em>albus</em> : blanc",
 			"domain": "médical",
 			"synonym": "blanchâtre"
+		},
+		{
+			"name": "argenté",
+			"definition": "Qui a la couleur et l'aspect métallique de l'argent.",
+			"agreement": true,
+			"feminine": "argentée",
+			"field": "gris"
+		},
+		{
+			"name": "argilacé",
+			"definition": "De la couleur de l'argile",
+			"field": "blanc",
+			"agreement": true,
+			"feminine": "argilacée"
+		},
+		{
+			"name": "blanchâtre",
+			"definition": "Qui tire sur le blanc",
+			"agreement": true,
+			"field": "blanc",
+			"example": {
+				"plain": "bleu",
+				"plainColor": "5991C9",
+				"qualified": "bleu blanchâtre",
+				"qualifiedColor": "67AAC9"
+			}
 		}
 	]
 }

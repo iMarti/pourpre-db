@@ -9,10 +9,15 @@
 				"properties": {
 					"name": { "type": "string" },
 					"synonym": { "type": "string" },
+					"variants": {
+						"type": "array",
+						"items": { "type": "string" }
+					},
 					"agreement": { "type": "boolean" },
 					"feminine": { "type": "string" },
 					"definition": { "type": "string" },
 					"etymology": { "type": "string" },
+					"note": { "type": "string" },
 					"example": { "type": "string" },
 					"colors": {
 						"type": "array",
@@ -20,7 +25,10 @@
 							"type": "object",
 							"properties": {
 								"rgb": { "type": "string" },
-								"fidelity": { "type": "string" },
+								"fidelity": {
+									"type": "string",
+									"enum": [ "*", "**", "***" ]
+								},
 								"hue": { "type": [ "integer", "null" ] },
 								"saturation": { "type": "integer" },
 								"lightness": { "type": "integer" }
@@ -30,14 +38,23 @@
 							]
 						}
 					},
-					"field": { "type": "string" },
-					"domain": { "type": "string" }
+					"field": {
+						"type": [ "string", "null" ],
+						"enum": [ null, "orange", "vert", "brun", "bleu", "gris", "noir", "blanc", "rouge", "jaune", "violet" ]
+					},
+					"domain": {
+						"type": "string",
+						"enum": [ "cheveux", "chevaux", "pigment" ]
+					}
 				},
 				"required": [
 					"name",
 					"agreement",
-					"definition",
-					"field"
+					"definition"
+				],
+				"anyOf": [
+					{ "required": [ "field" ] },
+					{ "required": [ "domain" ] }
 				]
 			}
 		},
@@ -47,16 +64,31 @@
 				"type": "object",
 				"properties": {
 					"name": { "type": "string" },
+					"definition": { "type": "string" },
 					"agreement": { "type": "boolean" },
 					"feminine": { "type": "string" },
 					"etymology": { "type": "string" },
-					"domain": { "type": "string" },
-					"synonym": { "type": "string" }
+					"domain": {
+						"type": "string",
+						"enum": [ "médical" ]
+					},
+					"synonym": { "type": "string" },
+					"field": {
+						"$ref": "#/properties/colorNames/items/properties/field"
+					},
+					"example": {
+						"type": "object",
+						"properties": {
+							"plain": { "type": "string" },
+							"plainColor": { "type": "string" },
+							"qualified": { "type": "string" },
+							"qualifiedColor": { "type": "string" }
+						}
+					}
 				},
 				"required": [
 					"name",
-					"agreement",
-					"domain"
+					"agreement"
 				]
 			}
 		}
