@@ -761,13 +761,237 @@
 					"lightness": 25
 				}
 			]
+		},
+		{
+			"name": "beurre",
+			"definition": "Entre jaune pâle et blanc crème soutenu.",
+			"agreement": false,
+			"etymology": "grec <em>bouturon</em>",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F0E36B",
+					"fidelity": "***",
+					"hue": 55,
+					"saturation": 50,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "beurre frais",
+			"definition": "Beurre clair.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFF48D",
+					"fidelity": "***",
+					"hue": 55,
+					"saturation": 43,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "bis",
+			"definition": "Gris moyen brunâtre",
+			"note": "Le biset est une étoffe de laine grossière de couleur bise. Au masculin, le 's' ne se prononce pas.",
+			"agreement": true,
+			"feminine": "bise",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "766F64",
+					"fidelity": "***",
+					"hue": 37,
+					"saturation": 6,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "bis",
+			"definition": "Écru.",
+			"agreement": true,
+			"feminine": "bise",
+			"domain": "héraldique",
+			"style": "rare",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F1E2BE",
+					"fidelity": "**",
+					"hue": 43,
+					"saturation": 18,
+					"lightness": 89
+				}
+			]
+		},
+		{
+			"name": "rouge Bismarck",
+			"definition": "Rouge-brun.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "A5260A",
+					"fidelity": "*",
+					"hue": 10,
+					"saturation": 56,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "bistre",
+			"definition": "Brun-gris jaunâtre.",
+			"note": "Le bistre est de la suie détrempée.",
+			"agreement": true,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "856D4D",
+					"fidelity": "**",
+					"hue": 35,
+					"saturation": 19,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "bitume",
+			"definition": "Brun brillant. Mélange naturel d'hydrocarbures, de composition et de teinte variable, allant du brun au noir.",
+			"note": "Utilisé jadis par les artistes peintres. Il a été employé comme pigment pour la peinture à l'huile, mais on a dû l'abandonner parce les peintures qui le contiennent ne sèchent jamais, ce qui provoque des craquelures si on a le malheur d'achever à l'huile une peinture commencée par des dessous au bitume.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "4E3D28",
+					"hue": 34,
+					"saturation": 13,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "blanc",
+			"definition": "Couleur de la neige, des nuages, du coton, du lait.",
+			"agreement": true,
+			"feminine": "blanche",
+			"etymology": "francique <em>blank</em> : clair, poli, brillant",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				},
+				{
+					"rgb": "F9F9F9",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 98
+				}
+			]
+		},
+		{
+			"name": "blanc",
+			"definition": "Constitue, avec alezan, café au lait et noir, les quatre types de robe simple.",
+			"agreement": true,
+			"feminine": "blanche",
+			"domain": "chevaux",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "blanc-bleu",
+			"definition": "Utilisé pour désigner la couleur d'un diamant le plus pur.",
+			"note": "Les autres termes officiels (norme française) pour qualifier la couleur d'un diamant blanc sont: blanc exceptionnel, blanc extra, blanc, nuancé, légèrement teinté, teinté.",
+			"agreement": true,
+			"domain": "minéraux",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "blanc-bleu",
+			"definition": "Se dit d'une race de bovins d'origine belge dont certains sujets présentent un mélange de poils blanc et gris ardoise foncé qui leur donne un aspect un peu gris bleu. La plupart des sujets sont blancs.",
+			"agreement": true,
+			"domain": "bovins",
+			"field": "gris"
+		},
+		{
+			"name": "blé",
+			"definition": "Jaune chaud légèrement brillant.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E8D630",
+					"fidelity": "***",
+					"hue": 55,
+					"saturation": 69,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "blet",
+			"definition": "Couleur brunâtre du fruit blet.",
+			"agreement": true,
+			"feminine": "blette",
+			"etymology": "francique <em>bleitjan</em> : meurtri",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "5B3C11",
+					"fidelity": "**",
+					"hue": 35,
+					"saturation": 25,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "bleu",
+			"definition": "Couleur du ciel sans nuages, du bleuet, du saphir. Couvre une grande variété de teintes, depuis le cyan et le turquoise, jusqu'à l'outremer, le bleu marine, ou le bleu lavande. Couleur primaire en synthèse additive (voir rouge et vert).",
+			"agreement": true,
+			"feminine": "bleue",
+			"etymology": "francique <em>blao</em>",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "4444D3",
+					"fidelity": "***",
+					"hue": 240,
+					"saturation": 56,
+					"lightness": 31
+				}
+			]
 		}
 	],
 	"qualifiers": [
 		{
 			"name": "acide",
 			"agreement": true,
-			"example": {
+			"applied": {
 				"plain": "vert",
 				"plainColor": "3AEC3A",
 				"qualified": "vert acide",
@@ -778,7 +1002,7 @@
 			"name": "acidulé",
 			"agreement": true,
 			"feminine": "acidulée",
-			"example": {
+			"applied": {
 				"plain": "orange",
 				"plainColor": "EDA915",
 				"qualified": "orange acidulé",
@@ -819,7 +1043,7 @@
 			"definition": "Qui tire vaguement sur le beige.",
 			"agreement": true,
 			"field": "brun",
-			"example": {
+			"applied": {
 				"plain": "F5F561",
 				"plainColor": "jaune",
 				"qualified": "ECE37A",
@@ -831,12 +1055,96 @@
 			"definition": "Qui tire sur le blanc",
 			"agreement": true,
 			"field": "blanc",
-			"example": {
+			"applied": {
 				"plain": "bleu",
 				"plainColor": "5991C9",
 				"qualified": "bleu blanchâtre",
 				"qualifiedColor": "67AAC9"
 			}
+		},
+		{
+			"name": "bicolore",
+			"definition": "Qui comporte deux couleurs.",
+			"agreement": true
+		},
+		{
+			"name": "bigarré",
+			"definition": "Qui a des couleurs vives et variées.",
+			"synonym": "chamarré",
+			"note": "Verbe : bigarrer",
+			"agreement": true,
+			"feminine": "bigarrée"
+		},
+		{
+			"name": "bilieux",
+			"definition": "Qui tire sur le jaune. Couleur de bile. Induit une idée de malade, malsain.",
+			"example": "un teint bilieux",
+			"agreement": true,
+			"feminine": "bilieuse",
+			"field": "jaune",
+			"applied": {
+				"plain": "57A835",
+				"plainColor": "vert",
+				"qualified": "6AA936",
+				"qualifiedColor": "vert bilieux"
+			}
+		},
+		{
+			"name": "billebarré",
+			"definition": "Bigarré par un mélange bizarre, au hasard, de diverses couleurs.",
+			"example": "un habit billebarré d'une étrange façon",
+			"agreement": true,
+			"feminine": "billebarrée",
+			"etymology": "<em>bille, barré</em> : barré de billes, au sens de bâtons, baguettes"
+		},
+		{
+			"name": "bistré",
+			"definition": "Qui rappelle la couleur bistre.",
+			"note": "Des \"yeux bistrés\" sont des yeux cernés, entourés d'un cercle livide. Verbe: bistrer.",
+			"agreement": true,
+			"feminine": "bistrée",
+			"field": "brun"
+		},
+		{
+			"name": "blafard",
+			"definition": "Pâle, sans éclat.",
+			"synonym": "livide, blême",
+			"example": "un teint blafard",
+			"agreement": true,
+			"feminine": "blafarde",
+			"applied": {
+				"plain": "orange",
+				"plainColor": "FFAA43",
+				"qualified": "orange blafard",
+				"qualifiedColor": "FFBB88"
+			}
+		},
+		{
+			"name": "blanchâtre",
+			"definition": "Qui tire sur le blanc.",
+			"agreement": true,
+			"field": "blanc",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "5991C9",
+				"qualified": "bleu blanchâtre",
+				"qualifiedColor": "67AAC9"
+			}
+		},
+		{
+			"name": "blanchi",
+			"definition": "Qui est devenu blanc.",
+			"note": "Verbe : blanchir",
+			"agreement": true,
+			"feminine": "blanchie",
+			"field": "blanc"
+		},
+		{
+			"name": "blême",
+			"definition": "Sans éclat, terne.",
+			"synonym": "livide, blafard",
+			"agreement": true,
+			"etymology": "anc. français <em>blesmer</em> : blesser, flétrir"
 		}
 	]
 }

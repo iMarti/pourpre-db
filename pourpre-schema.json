@@ -44,21 +44,16 @@
 					},
 					"domain": {
 						"type": "string",
-						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau" ]
+						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins" ]
 					},
 					"style": {
 						"type": "string",
-						"enum": [ "vieilli", "péjoratif" ]
+						"enum": [ "vieilli", "péjoratif", "rare" ]
 					}
 				},
 				"required": [
 					"name",
-					"agreement",
-					"definition"
-				],
-				"anyOf": [
-					{ "required": [ "field" ] },
-					{ "required": [ "domain" ] }
+					"agreement"
 				]
 			}
 		},
@@ -74,14 +69,14 @@
 					"etymology": { "type": "string" },
 					"note": { "type": "string" },
 					"domain": {
-						"type": "string",
-						"enum": [ "médical" ]
+						"$ref": "#/properties/colorNames/items/properties/domain"
 					},
 					"synonym": { "type": "string" },
 					"field": {
 						"$ref": "#/properties/colorNames/items/properties/field"
 					},
-					"example": {
+					"example": { "type": "string" },
+					"applied": {
 						"type": "object",
 						"properties": {
 							"plain": { "type": "string" },
