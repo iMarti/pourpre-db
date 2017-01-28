@@ -382,8 +382,7 @@
 			"name": "aquilain",
 			"definition": "Fauve",
 			"domain": "chevaux",
-			"agreement": false,
-			"field": null
+			"agreement": false
 		},
 		{
 			"name": "ardoise",
@@ -1762,7 +1761,7 @@
 					"lightness": 63
 				}
 			]
-		}
+		},
 		{
 			"name": "vert chartreuse",
 			"definition": "Vert acide et clair. Couleur de la boisson du même nom.",
@@ -1990,6 +1989,258 @@
 					"lightness": 50
 				}
 			]
+		},
+		{
+			"name": "clarissimo",
+			"definition": "Beige-vert à beige. La plus claire des couleurs de cigares.",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "C8AD7F",
+					"fidelity": "**",
+					"hue": 39,
+					"saturation": 25,
+					"lightness": 69
+				},
+				{
+					"rgb": "B9B276",
+					"fidelity": "*",
+					"hue": 55,
+					"saturation": 25,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "claro",
+			"definition": "Fauve passé.",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "845A3B",
+					"fidelity": "*",
+					"hue": 25,
+					"saturation": 25,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "claro claro",
+			"definition": "Blond grisâtre.",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "BA9B61",
+					"fidelity": "*",
+					"hue": 40,
+					"saturation": 31,
+					"lightness": 62
+				}
+			]
+		},
+		{
+			"name": "bleu cobalt",
+			"definition": "Bleu profond, tirant très légèrement sur le violet.",
+			"note": "Le pigment bleu de cobalt est notamment utilisé mélangé à la chaux, pour décorer les maisons au Portugal.",
+			"agreement": false,
+			"etymology": "allemand <em>Kobold</em> : lutin",
+			"domain": "pigment",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "22427C",
+					"fidelity": "***",
+					"hue": 220,
+					"saturation": 31,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "colombin",
+			"definition": "Rouge à violet, couleur de la gorge du pigeon.",
+			"note": "Voir aussi gorge de pigeon.",
+			"agreement": true,
+			"feminine": "colombine",
+			"etymology": "latin <em>columbinus</em> : pigeon",
+			"style": "vieilli",
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "6A455D",
+					"fidelity": "*",
+					"hue": 320,
+					"saturation": 13,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "colorado",
+			"definition": "Brun-rouge.",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "703516",
+					"fidelity": "*",
+					"hue": 20,
+					"saturation": 31,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "colorado claro",
+			"definition": "Brun clair.",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "6A4B21",
+					"fidelity": "*",
+					"hue": 35,
+					"saturation": 25,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "coquelicot",
+			"definition": "Rouge soutenu à profond. Couleur de la fleur de même nom.",
+			"synonym": "ponceau",
+			"example": "une chemise coquelicot",
+			"agreement": false,
+			"etymology": "<em>coquerico</em> : au sens de \"coq\" par référence à la couleur de sa crête",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "C60800",
+					"fidelity": "**",
+					"hue": 2,
+					"saturation": 76,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "coquille d'oeuf",
+			"definition": "Blanc légèrement beige-rosé.",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FDE9E0",
+					"fidelity": "***",
+					"hue": 17,
+					"saturation": 10,
+					"lightness": 93
+				}
+			]
+		},
+		{
+			"name": "corail",
+			"definition": "Rouge vif tirant sur l'orangé. Plus orangé que le rouge vermillon.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "E73E01",
+					"fidelity": "**",
+					"hue": 15,
+					"saturation": 81,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "corallin",
+			"definition": "De couleur corail.",
+			"agreement": true,
+			"feminine": "coralline",
+			"field": "rouge"
+		},
+		{
+			"name": "cramoisi",
+			"definition": "Rouge profond tirant sur le violet.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "960018",
+					"fidelity": "**",
+					"hue": 351,
+					"saturation": 55,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "crème",
+			"definition": "Blanc légèrement teinté de jaune.",
+			"agreement": false,
+			"etymology": "gaulois <em>crama</em>",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FDF1B8",
+					"fidelity": "***",
+					"hue": 50,
+					"saturation": 25,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "cuisse de nymphe",
+			"definition": "Rose dragée clair, incarnadin clair.",
+			"agreement": false,
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FEE7F0",
+					"fidelity": "**",
+					"hue": 338,
+					"saturation": 8,
+					"lightness": 93
+				}
+			]
+		},
+		{
+			"name": "cuivre",
+			"definition": "Orange-brun, les reflets pouvant aller jusqu'à un jaune chaud.",
+			"agreement": false,
+			"etymology": "latin <em>aes cyprium</em> : bronze de Chypre",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "B36700",
+					"fidelity": "**",
+					"hue": 35,
+					"saturation": 61,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "cyan",
+			"definition": "Bleu clair et vif. Couleur primaire en synthèse soustractive (voir jaune et magenta).",
+			"agreement": false,
+			"etymology": "grec <em>kuanos</em>",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "2BFAFA",
+					"fidelity": "***",
+					"hue": 180,
+					"saturation": 81,
+					"lightness": 81
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -2049,10 +2300,10 @@
 			"agreement": true,
 			"field": "brun",
 			"applied": {
-				"plain": "F5F561",
-				"plainColor": "jaune",
-				"qualified": "ECE37A",
-				"qualifiedColor": "jaune beigeâtre"
+				"plain": "jaune",
+				"plainColor": "F5F561",
+				"qualified": "jaune beigeâtre",
+				"qualifiedColor": "ECE37A"
 			}
 		},
 		{
@@ -2076,10 +2327,10 @@
 			"feminine": "bilieuse",
 			"field": "jaune",
 			"applied": {
-				"plain": "57A835",
-				"plainColor": "vert",
-				"qualified": "6AA936",
-				"qualifiedColor": "vert bilieux"
+				"plain": "vert",
+				"plainColor": "57A835",
+				"qualified": "vert bilieux",
+				"qualifiedColor": "6AA936"
 			}
 		},
 		{
@@ -2351,6 +2602,89 @@
 			"agreement": true,
 			"feminine": "citrine",
 			"field": "jaune"
+		},
+		{
+			"name": "clair",
+			"definition": "Qu'on obtient en diluant la couleur. Qui est comme éclairé par une lumière franche.",
+			"agreement": true,
+			"feminine": "claire",
+			"applied": {
+				"plain": "blé",
+				"plainColor": "E7DE4D",
+				"qualified": "blé clair",
+				"qualifiedColor": "FEF566"
+			}
+		},
+		{
+			"name": "claquant",
+			"definition": "Intense et lumineux.",
+			"agreement": true,
+			"feminine": "claquante",
+			"applied": {
+				"plain": "rouge",
+				"plainColor": "DC0000",
+				"qualified": "rouge claquant",
+				"qualifiedColor": "FE0000"
+			}
+		},
+		{
+			"name": "concolore",
+			"definition": "D'une couleur uniforme.",
+			"note": "Voir aussi unicolore, monocolore",
+			"agreement": true
+		},
+		{
+			"name": "coruscant",
+			"definition": "Qui brille d'un éclat vif, étincelant.",
+			"example": "des bouquets coruscants",
+			"agreement": true,
+			"feminine": "coruscante",
+			"etymology": "latin <em>coruscare</em> : étinceler"
+		},
+		{
+			"name": "crayeux",
+			"definition": "Qui a la couleur, l'aspect de la craie, blanchâtre et sec.",
+			"agreement": true,
+			"feminine": "crayeuse",
+			"field": "blanc",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "0087B9",
+				"qualified": "bleu crayeux",
+				"qualifiedColor": "44ABDD"
+			}
+		},
+		{
+			"name": "criard",
+			"definition": "Vif et agressif.",
+			"note": "L'expression \"des couleurs criardes\" désigne des couleurs vives et mal assorties",
+			"agreement": true,
+			"feminine": "criarde",
+			"applied": {
+				"plain": "rouge",
+				"plainColor": "DC0000",
+				"qualified": "rouge criard",
+				"qualifiedColor": "FE0000"
+			}
+		},
+		{
+			"name": "cru",
+			"definition": "Que rien n'atténue, violent.",
+			"agreement": true,
+			"feminine": "crue",
+			"applied": {
+				"plain": "jaune",
+				"plainColor": "EFD646",
+				"qualified": "jaune cru",
+				"qualifiedColor": "FFFC43"
+			}
+		},
+		{
+			"name": "cuivré",
+			"definition": "Qui a la couleur, les reflets du cuivre.",
+			"agreement": true,
+			"feminine": "cuivrée",
+			"field": "orange"
 		}
 	]
 }
