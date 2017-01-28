@@ -985,6 +985,1011 @@
 					"lightness": 31
 				}
 			]
+		},
+		{
+			"name": "bleu bleuet",
+			"definition": "Bleu moyen légèrement fade. Couleur de la fleur de même nom.",
+			"synonym": "bleu barbeau",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "5472AE",
+					"fidelity": "*",
+					"hue": 221,
+					"saturation": 31,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "blond",
+			"definition": "Entre châtain clair et doré.",
+			"agreement": true,
+			"feminine": "blonde",
+			"etymology": "peut-être du germanique <em>blûnd</em>",
+			"domain": "cheveux",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E2BC74",
+					"fidelity": "**",
+					"hue": 40,
+					"saturation": 38,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "blondasse",
+			"definition": "D'un blond sale.",
+			"agreement": true,
+			"style": "péjoratif",
+			"field": "jaune"
+		},
+		{
+			"name": "rose bonbon",
+			"definition": "Rose vif tirant sur le magenta.",
+			"agreement": false,
+			"etymology": "redoublement de \"bon\"",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "F9429E",
+					"fidelity": "***",
+					"hue": 330,
+					"saturation": 62,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "bordeaux",
+			"definition": "Rouge foncé tirant sur le violet.",
+			"variants": [ "rouge bordeaux" ],
+			"agreement": false,
+			"etymology": "nom propre <em>Bordeaux</em> : nom de la ville, en référence au vin rouge qu'on y produit",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "6D071A",
+					"fidelity": "***",
+					"hue": 350,
+					"saturation": 37,
+					"lightness": 12
+				}
+			]
+		},
+		{
+			"name": "bourgogne",
+			"definition": "Rouge foncé tirant sur le brun.",
+			"agreement": false,
+			"etymology": "nom propre <em>Bourgogne</em> : nom de la région, en référence au vin rouge qu'on y produit",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "6B0D0D",
+					"fidelity": "***",
+					"hue": 0,
+					"saturation": 37,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "vert bouteille",
+			"definition": "Vert foncé, chaud.",
+			"agreement": false,
+			"etymology": "latin <em>bûtticûla</em> : petit tonneau",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "096A09",
+					"fidelity": "***",
+					"hue": 120,
+					"saturation": 38,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "bouton d'or",
+			"definition": "Jaune lumineux et chaud, de la couleur de la fleur de même nom.",
+			"example": "une écharpe jaune bouton d'or",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F6DC12",
+					"fidelity": "**",
+					"hue": 54,
+					"saturation": 85,
+					"lightness": 83
+				}
+			]
+		},
+		{
+			"name": "brique",
+			"definition": "Rouge moyen fade, jaunâtre.",
+			"agreement": false,
+			"etymology": "néerlandais <em>bricke</em>",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "842E1B",
+					"fidelity": "**",
+					"hue": 10,
+					"saturation": 38,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "bronze",
+			"definition": "Brun-doré.",
+			"agreement": false,
+			"etymology": "italien <em>bronzo</em>",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "614E1A",
+					"fidelity": "**",
+					"hue": 45,
+					"saturation": 25,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "bronzé",
+			"definition": "Bruni par le soleil ou naturellement brun-doré.",
+			"note": "Verbe : bronzer",
+			"agreement": true,
+			"feminine": "bronzée",
+			"field": "brun",
+			"domain": "peau"
+		},
+		{
+			"name": "brou de noix",
+			"definition": "Brun foncé pouvant aller jusqu'au noir. De la couleur que donne le brou de noix au bois.",
+			"note": "Sert de teinture pour le bois, les vêtements, les cheveux. La plupart des teintures \"brou de noix\" du commerce sont faites avec de la terre de Cassel.",
+			"example": "un visage brou de noix",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "3F2204",
+					"fidelity": "*",
+					"hue": 30,
+					"saturation": 20,
+					"lightness": 15
+				}
+			]
+		},
+		{
+			"name": "brun",
+			"definition": "Entre roux et noir. Couleur du cuir naturel, de la noisette. Couvre les teintes moyennes à foncées de l'orange.",
+			"agreement": true,
+			"feminine": "brune",
+			"etymology": "germanique <em>brun</em>",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "5B3C11",
+					"fidelity": "***",
+					"hue": 35,
+					"saturation": 25,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "papier bulle",
+			"definition": "Beige clair moyennement saturé.",
+			"note": "Le papier bulle est un papier jaunâtre fait de pâte grossière.",
+			"example": "un tissu couleur papier bulle",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "EDD38C",
+					"fidelity": "**",
+					"hue": 45,
+					"saturation": 34,
+					"lightness": 83
+				}
+			]
+		},
+		{
+			"name": "bureau",
+			"definition": "Brun, de la couleur de l'étoffe grossière de même nom.",
+			"example": "un agneau bureau (La Petite Fadette, G. Sand)",
+			"agreement": false,
+			"etymology": "ancien français <em>burel</em> : étoffe grossière",
+			"style": "vieilli",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "6B5731",
+					"hue": 40,
+					"saturation": 20,
+					"lightness": 35
+				}
+			]
+		},
+		{
+			"name": "caca d'oie",
+			"definition": "Jaune sale verdâtre.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "CDCD0D",
+					"fidelity": "*",
+					"hue": 60,
+					"saturation": 75,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "cacao",
+			"definition": "Marron sombre chaud. Plus doux que chocolat.",
+			"example": "des yeux cacao",
+			"agreement": true,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "614B3A",
+					"fidelity": "*",
+					"hue": 26,
+					"saturation": 13,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "cachou",
+			"definition": "Brun profond très sombre, presque noir.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "2F1B0C",
+					"fidelity": "**",
+					"hue": 26,
+					"saturation": 12,
+					"lightness": 12
+				}
+			]
+		},
+		{
+			"name": "cæruleum",
+			"synonym": "bleu céleste",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "26C4EC",
+					"hue": 191,
+					"saturation": 71,
+					"lightness": 65
+				}
+			]
+		},
+		{
+			"name": "café",
+			"definition": "Brun foncé, couleur du grain de café torréfié.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "462E01",
+					"fidelity": "**",
+					"hue": 40,
+					"saturation": 24,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "café au lait",
+			"definition": "Café clair, couleur de la boisson du même nom.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "785E2F",
+					"fidelity": "**",
+					"hue": 40,
+					"saturation": 25,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "café au lait",
+			"definition": "Alezan clair. Constitue, avec alezan, blanc et noir, les quatre types de robe simple.",
+			"agreement": false,
+			"domain": "chevaux"
+		},
+		{
+			"name": "bleu canard",
+			"definition": "Bleu moyen soutenu teinté de vert. Entre bleu sarcelle et bleu paon.",
+			"agreement": false,
+			"etymology": "<em>quanart</em> : XIIIème siècle, origine incertaine",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "048B9A",
+					"fidelity": "**",
+					"hue": 185,
+					"saturation": 56,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "jaune canari",
+			"definition": "Jaune vif très légèrement verdâtre.",
+			"agreement": false,
+			"etymology": "espagnol <em>canario</em> : serin des Canaries",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E7F00D",
+					"fidelity": "**",
+					"hue": 62,
+					"saturation": 87,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "canelle",
+			"definition": "Brun doux tirant légèrement sur le rouge, couleur de la cannelle.",
+			"agreement": true,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "7E5835",
+					"fidelity": "*",
+					"hue": 29,
+					"saturation": 25,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "capucine",
+			"definition": "Rouge lumineux très légèrement orangé, une des couleurs des fleurs de capucine.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "FF5E4D",
+					"fidelity": "**",
+					"hue": 5,
+					"saturation": 67,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "caramel",
+			"definition": "Marron moyen chaud.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "7E3300",
+					"fidelity": "**",
+					"hue": 24,
+					"saturation": 43,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "noir de carbone",
+			"definition": "Noir pur ou tirant légèrement sur le marron, constitué de fines particules de carbone.",
+			"synonym": "noir de fumée, noir d'acétylène, noir tunnel, noir de fourneau, noir de lampe, noir thermique",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				},
+				{
+					"rgb": "130E0A",
+					"hue": 26,
+					"saturation": 3,
+					"lightness": 6
+				}
+			]
+		},
+		{
+			"name": "rouge cardinal",
+			"definition": "Rouge soutenu de la robe des cardinaux.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "B82010",
+					"fidelity": "**",
+					"hue": 5,
+					"saturation": 63,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "carmin",
+			"definition": "Rouge profond très légèrement violacé.",
+			"note": "Le carmin est une matière colorante originellement tirée de la cochenille.",
+			"example": "une robe carmin",
+			"agreement": false,
+			"etymology": "arabe <em>qîrmiz</em> : cochenille",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "960018",
+					"fidelity": "**",
+					"hue": 351,
+					"saturation": 55,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "carnation",
+			"definition": "Chair.",
+			"agreement": false,
+			"domain": "héraldique",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FEC3AC",
+					"fidelity": "***",
+					"hue": 16,
+					"saturation": 29,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "carotte",
+			"definition": "Rouge tirant sur le roux, orange.",
+			"agreement": false,
+			"etymology": "grec <em>karôton</em>",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "F4661B",
+					"fidelity": "***",
+					"hue": 20,
+					"saturation": 75,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "blanc cassé",
+			"definition": "Blanc tirant sur le jaune ou le gris.",
+			"agreement": false,
+			"etymology": "latin <em>quatere</em> : secouer",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEE2",
+					"fidelity": "***",
+					"hue": 60,
+					"saturation": 11,
+					"lightness": 99
+				},
+				{
+					"rgb": "EFEFEF",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "cassis",
+			"definition": "Noir à noir rougeâtre des baies du même nom.",
+			"note": "On trouve des couleurs cassis beaucoup moins sombres (allant jusqu'au rouge bordeaux) dans divers catalogues.",
+			"example": "yeux aux prunelles cassis",
+			"agreement": false,
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "2C030B",
+					"fidelity": "**",
+					"hue": 350,
+					"saturation": 15,
+					"lightness": 5
+				},
+				{
+					"rgb": "3A020D",
+					"fidelity": "*",
+					"hue": 350,
+					"saturation": 20,
+					"lightness": 6
+				}
+			]
+		},
+		{
+			"name": "vert céladon",
+			"definition": "Vert tendre à vert-gris rabattu.",
+			"example": "des chaussures céladon",
+			"agreement": false,
+			"etymology": "nom d'un personnage de l'Astrée, au costume de cette couleur",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "83A697",
+					"fidelity": "**",
+					"hue": 155,
+					"saturation": 12,
+					"lightness": 62
+				}
+			]
+		},
+		{
+			"name": "bleu céleste",
+			"definition": "Bleu clair, bleu du ciel.",
+			"synonym": "cæruleum, céruleum",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "26C4EC",
+					"hue": 191,
+					"saturation": 71,
+					"lightness": 65
+				}
+			]
+		},
+		{
+			"name": "cerise",
+			"definition": "Rouge vif à profond.",
+			"agreement": false,
+			"etymology": "grec <em>kerasion</em>",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "BB0B0B",
+					"fidelity": "***",
+					"hue": 0,
+					"saturation": 69,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "cérulé",
+			"definition": "Bleu vif, d'azur.",
+			"synonym": "azur",
+			"note": "Voir la note dans \"céruléen\".",
+			"agreement": true,
+			"feminine": "cérulée",
+			"style": "littéraire",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "74D0F1",
+					"fidelity": "***",
+					"hue": 195,
+					"saturation": 44,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "céruléen",
+			"definition": "Bleu ciel intense ou bleu sombre.",
+			"note": "Il semble que céruléen puisse désigner un bleu sombre, alors que \"cérulé\" ne décrit qu'un bleu vif, d'azur.",
+			"synonym": "bleu cérule",
+			"agreement": true,
+			"feminine": "céruléenne",
+			"etymology": "latin <em>caeruleus</em> : bleu du ciel",
+			"style": "littéraire",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "0F9DE8",
+					"fidelity": "**",
+					"hue": 200,
+					"saturation": 75,
+					"lightness": 52
+				},
+				{
+					"rgb": "357AB7",
+					"fidelity": "**",
+					"hue": 208,
+					"saturation": 44,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "céruleum",
+			"synonym": "bleu céleste",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "26C4EC",
+					"hue": 191,
+					"saturation": 71,
+					"lightness": 65
+				}
+			]
+		},
+		{
+			"name": "blanc de céruse",
+			"synonym": "blanc d'argent, blanc de plomb",
+			"note": "La céruse est du carbonate basique de plomb, poison interdit en France depuis 1915.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "chair",
+			"definition": "Incarnadin doré.",
+			"agreement": false,
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FEC3AC",
+					"fidelity": "***",
+					"hue": 16,
+					"saturation": 29,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "chamois",
+			"definition": "Jaune clair légèrement ocré. Couleur de la peau de chamois.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "D0C07A",
+					"fidelity": "**",
+					"hue": 50,
+					"saturation": 31,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "champagne",
+			"definition": "Jaune paille délavé.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FBF2B7",
+					"fidelity": "**",
+					"hue": 53,
+					"saturation": 25,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "charbon",
+			"definition": "Noir, peut être luisant.",
+			"example": "un garçon aux cheveux charbon et yeux ténébreux",
+			"agreement": false,
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "charbonneux",
+			"definition": "Noir mat. Dont la couleur rappelle celle du charbon.",
+			"example": "des yeux charbonneux",
+			"agreement": true,
+			"feminine": "charbonneuse",
+			"field": "noir"
+		},
+		{
+			"name": "bleu charrette",
+			"synonym": "bleu charron",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "17657D",
+					"fidelity": "**",
+					"hue": 193,
+					"saturation": 36,
+					"lightness": 34
+				},
+				{
+					"rgb": "8EA2C6",
+					"fidelity": "*",
+					"hue": 220,
+					"saturation": 19,
+					"lightness": 63
+				}
+			]
+		},
+		{
+			"name": "bleu charron",
+			"definition": "À la base, bleu profond tirant très légèrement sur le vert. Mais on trouve des bleus doux et fades, légèrement violetés, qui seraient également dénommés \"charron\".",
+			"synonym": "bleu charrette",
+			"note": "Le bleu charron est du bleu de Prusse chargé de sulfate de baryte. La teinte pâle et violeté du deuxième échantillon est sujette à caution.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "17657D",
+					"fidelity": "**",
+					"hue": 193,
+					"saturation": 36,
+					"lightness": 34
+				},
+				{
+					"rgb": "8EA2C6",
+					"fidelity": "*",
+					"hue": 220,
+					"saturation": 19,
+					"lightness": 63
+				}
+			]
+		}
+		{
+			"name": "vert chartreuse",
+			"definition": "Vert acide et clair. Couleur de la boisson du même nom.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "C2F732",
+					"fidelity": "**",
+					"hue": 75,
+					"saturation": 69,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "châtaigne",
+			"definition": "Brun clair, grisâtre. Couleur du fruit du même nom.",
+			"example": "des yeux châtaigne",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "806D5A",
+					"fidelity": "*",
+					"hue": 30,
+					"saturation": 13,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "châtain",
+			"definition": "Couleur de la châtaigne.",
+			"agreement": true,
+			"feminine": "châtaine",
+			"etymology": "latin <em>castaneus</em>",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "8B6C42",
+					"hue": 35,
+					"saturation": 25,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "chaudron",
+			"definition": "Brun cuivré. Peut impliquer, mais pas systématiquement, une idée de brillance, comme le cuivre.",
+			"example": "une robe de chambre chaudron",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "85530F",
+					"hue": 35,
+					"saturation": 40,
+					"lightness": 35
+				}
+			]
+		},
+		{
+			"name": "chenu",
+			"definition": "Blanc, blanchi.",
+			"note": "En parlant d'une personne: qui a les cheveux blancs de vieillesse.",
+			"example": "des buissons chenus",
+			"agreement": true,
+			"feminine": "chenue",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "blanc de Chine",
+			"definition": "Blanc pur.",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "chocolat",
+			"definition": "Brun-marron foncé moyennement saturé.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "5A3A22",
+					"fidelity": "**",
+					"hue": 26,
+					"saturation": 19,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "jaune de chrome",
+			"definition": "Jaune verdâtre à orangé.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "EDFF0C",
+					"fidelity": "**",
+					"hue": 64,
+					"saturation": 92,
+					"lightness": 92
+				},
+				{
+					"rgb": "FFFF05",
+					"fidelity": "**",
+					"hue": 60,
+					"saturation": 98,
+					"lightness": 93
+				}
+			]
+		},
+		{
+			"name": "vert de chrome",
+			"synonym": "vert anglais",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "18391E",
+					"fidelity": "***",
+					"hue": 130,
+					"saturation": 12,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "bleu ciel",
+			"definition": "Bleu clair.",
+			"agreement": false,
+			"etymology": "latin <em>caelum</em>",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "77B5FE",
+					"fidelity": "**",
+					"hue": 213,
+					"saturation": 46,
+					"lightness": 68
+				}
+			]
+		},
+		{
+			"name": "cinabarin",
+			"synonym": "cinabrin",
+			"agreement": true,
+			"feminine": "cinabarine",
+			"style": "rare",
+			"field": "rouge"
+		},
+		{
+			"name": "cinabre",
+			"note": "Sulfure de mercure de couleur rouge, utilisé notamment pour la fabrication du vermillon.",
+			"synonym": "vermillon",
+			"agreement": false,
+			"etymology": "grec <em>kinnabari</em>",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "DB1702",
+					"fidelity": "***",
+					"hue": 5,
+					"saturation": 81,
+					"lightness": 25
+				},
+				{
+					"rgb": "FD4626",
+					"fidelity": "***",
+					"hue": 8,
+					"saturation": 79,
+					"lightness": 42
+				}
+			]
+		},
+		{
+			"name": "citron",
+			"definition": "Jaune clair.",
+			"example": "une cuisine aux murs citron",
+			"agreement": false,
+			"etymology": "latin <em>citrus</em>",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F7FF3C",
+					"fidelity": "***",
+					"hue": 62,
+					"saturation": 75,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "citrouille",
+			"definition": "Orange moyen. Couleur carotte en moins saturé, et tirant légèrement plus sur le jaune.",
+			"agreement": false,
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "DF6D14",
+					"fidelity": "**",
+					"hue": 26,
+					"saturation": 69,
+					"lightness": 50
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -1048,18 +2053,6 @@
 				"plainColor": "jaune",
 				"qualified": "ECE37A",
 				"qualifiedColor": "jaune beigeâtre"
-			}
-		},
-		{
-			"name": "blanchâtre",
-			"definition": "Qui tire sur le blanc",
-			"agreement": true,
-			"field": "blanc",
-			"applied": {
-				"plain": "bleu",
-				"plainColor": "5991C9",
-				"qualified": "bleu blanchâtre",
-				"qualifiedColor": "67AAC9"
 			}
 		},
 		{
@@ -1145,6 +2138,219 @@
 			"synonym": "livide, blafard",
 			"agreement": true,
 			"etymology": "anc. français <em>blesmer</em> : blesser, flétrir"
+		},
+		{
+			"name": "bleuâtre",
+			"definition": "Qui tire sur le bleu.",
+			"agreement": true,
+			"field": "bleu",
+			"applied": {
+				"plain": "blanc",
+				"plainColor": "EAEDF0",
+				"qualified": "blanc bleuâtre",
+				"qualifiedColor": "DBE3F0"
+			}
+		},
+		{
+			"name": "bleui",
+			"definition": "Qui s'est teinté de bleu, qui est devenu bleu.",
+			"note": "Verbe : bleuir",
+			"agreement": true,
+			"feminine": "bleuie",
+			"field": "bleu"
+		},
+		{
+			"name": "bleuté",
+			"definition": "Légèrement teinté de bleu.",
+			"note": "Verbe : bleuter (passer au bleu).",
+			"agreement": true,
+			"feminine": "bleutée",
+			"field": "bleu",
+			"applied": {
+				"plain": "vert",
+				"plainColor": "6AC467",
+				"qualified": "vert bleuté",
+				"qualifiedColor": "65C28A"
+			}
+		},
+		{
+			"name": "blondâtre",
+			"definition": "D'un blond fade.",
+			"agreement": true,
+			"field": "jaune"
+		},
+		{
+			"name": "blondi",
+			"definition": "Qui est devenu blond, qui s'est teinté de blond.",
+			"note": "Verbe : blondir.",
+			"agreement": true,
+			"feminine": "blondie",
+			"field": "jaune"
+		},
+		{
+			"name": "blondoyant",
+			"definition": "Qui se colore de nuances de blond, qui a des reflets blonds.",
+			"note": "Verbe : blondoyer",
+			"agreement": true,
+			"feminine": "blondoyante",
+			"field": "jaune"
+		},
+		{
+			"name": "boueux",
+			"definition": "Qui tire sur le brun, qui rappelle la couleur de la boue.",
+			"agreement": true,
+			"feminine": "boueuse",
+			"field": "brun",
+			"applied": {
+				"plain": "orange",
+				"plainColor": "E9BB24",
+				"qualified": "orange boueux",
+				"qualifiedColor": "D1AB30"
+			}
+		},
+		{
+			"name": "brillant",
+			"definition": "Qui brille, ou qui est lumineux, vif.",
+			"agreement": true,
+			"feminine": "brillante",
+			"applied": {
+				"plain": "blanc",
+				"plainColor": "F2EFE7",
+				"qualified": "blanc brillant",
+				"qualifiedColor": "FFFCF3"
+			}
+		},
+		{
+			"name": "brûlé",
+			"definition": "Foncé et mêlé de rouge.",
+			"agreement": true,
+			"feminine": "brûlée",
+			"field": "rouge",
+			"applied": {
+				"plain": "terre de Sienne",
+				"plainColor": "8A562F",
+				"qualified": "terre de Sienne brûlée",
+				"qualifiedColor": "7B360F"
+			}
+		},
+		{
+			"name": "brunâtre",
+			"definition": "Qui tire sur le brun.",
+			"agreement": true,
+			"field": "brun",
+			"applied": {
+				"plain": "orange",
+				"plainColor": "E3961F",
+				"qualified": "orange brunâtre",
+				"qualifiedColor": "D2891A"
+			}
+		},
+		{
+			"name": "bruni",
+			"definition": "Qui a pris une teinte brune.",
+			"note": "Verbe : brunir",
+			"agreement": true,
+			"feminine": "brunie",
+			"field": "brun"
+		},
+		{
+			"name": "camaïeu",
+			"definition": "Tableau peint de plusieurs nuances d'une même couleur. Les couleurs ont la même teinte, mais diffèrent par leur ton.",
+			"example": "les camaïeux hallucinés de Goya",
+			"agreement": true,
+			"domain": "peinture"
+		},
+		{
+			"name": "carminé",
+			"definition": "De couleur carmin, teinté de carmin.",
+			"agreement": true,
+			"feminine": "carminée",
+			"field": "rouge"
+		},
+		{
+			"name": "cendré",
+			"definition": "Tirant délicatement sur le gris.",
+			"agreement": true,
+			"feminine": "cendrée",
+			"field": "gris",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "4487FE",
+				"qualified": "bleu cendré",
+				"qualifiedColor": "6699DE"
+			}
+		},
+		{
+			"name": "cendreux",
+			"definition": "Grisâtre, couleur de cendre, presque blafard.",
+			"example": "un visage cendreux",
+			"agreement": true,
+			"feminine": "cendreuse",
+			"field": "gris"
+		},
+		{
+			"name": "chamarré",
+			"definition": "Qui a des couleurs variées.",
+			"note": "Verbe : chamarrer",
+			"example": "un plumage chamarré",
+			"agreement": true,
+			"feminine": "chamarrée"
+		},
+		{
+			"name": "charbonneux",
+			"definition": "Sali, noirci par le charbon.",
+			"example": "une veste d'un vert charbonneux",
+			"agreement": true,
+			"feminine": "charbonneuse",
+			"field": "noir"
+		},
+		{
+			"name": "chatoyant",
+			"definition": "Qui a des reflets changeants.",
+			"note": "Verbe : chatoyer",
+			"agreement": true,
+			"feminine": "chatoyante"
+		},
+		{
+			"name": "chaud",
+			"definition": "Intense, qui évoque le feu, en parlant d'un brun, marron, rouge, orange ou jaune.",
+			"agreement": true,
+			"feminine": "chaude",
+			"applied": {
+				"plain": "beige",
+				"plainColor": "CCBA80",
+				"qualified": "beige chaud",
+				"qualifiedColor": "DABA5A"
+			}
+		},
+		{
+			"name": "chiné",
+			"definition": "De plusieurs couleurs mélangées, par exemple en parlant d'un tissu.",
+			"note": "Verbe : chiner",
+			"agreement": true,
+			"feminine": "chinée"
+		},
+		{
+			"name": "cinabrin",
+			"definition": "De la couleur du cinabre.",
+			"agreement": true,
+			"feminine": "cinabrine",
+			"field": "rouge"
+		},
+		{
+			"name": "cireux",
+			"definition": "Qui a l'aspect, la couleur de la cire, jaunâtre et translucide.",
+			"example": "teint cireux",
+			"agreement": true,
+			"feminine": "cireuse",
+			"field": "jaune"
+		},
+		{
+			"name": "citrin",
+			"example": "des feuillages citrins",
+			"agreement": true,
+			"feminine": "citrine",
+			"field": "jaune"
 		}
 	]
 }

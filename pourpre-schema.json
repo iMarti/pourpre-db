@@ -24,14 +24,34 @@
 						"items": {
 							"type": "object",
 							"properties": {
-								"rgb": { "type": "string" },
+								"rgb": {
+									"type": "string",
+									"description": "Red, green, blue hexadecimal color code as used on the web, without the leading '#'.",
+									"minLength": 6,
+									"maxLength": 6
+								},
 								"fidelity": {
 									"type": "string",
 									"enum": [ "*", "**", "***" ]
 								},
-								"hue": { "type": [ "integer", "null" ] },
-								"saturation": { "type": "integer" },
-								"lightness": { "type": "integer" }
+								"hue": {
+									"type": [ "integer", "null" ],
+									"description": "Hue as defined https://en.wikipedia.org/wiki/Hue",
+									"minimum": 0,
+									"maximum": 359
+								},
+								"saturation": {
+									"type": "integer",
+									"description": "Color saturation percentage as defined https://en.wikipedia.org/wiki/Colorfulness",
+									"minimum": 0,
+									"maximum": 100
+								},
+								"lightness": {
+									"type": "integer",
+									"description": "Light percentage in a color as defined https://en.wikipedia.org/wiki/Lightness",
+									"minimum": 0,
+									"maximum": 100
+								}
 							},
 							"required": [
 								"rgb"
@@ -44,11 +64,11 @@
 					},
 					"domain": {
 						"type": "string",
-						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins" ]
+						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture" ]
 					},
 					"style": {
 						"type": "string",
-						"enum": [ "vieilli", "péjoratif", "rare" ]
+						"enum": [ "vieilli", "péjoratif", "rare", "littéraire" ]
 					}
 				},
 				"required": [
