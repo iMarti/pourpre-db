@@ -2241,6 +2241,668 @@
 					"lightness": 81
 				}
 			]
+		},
+		{
+			"name": "bleu dragée",
+			"definition": "Bleu céruléen pâle. Couleur des dragées bleues.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "DFF2FF",
+					"fidelity": "**",
+					"hue": 204,
+					"saturation": 11,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "rose dragée",
+			"definition": "Entre rose clair et incarnadin. Couleur des dragées roses.",
+			"example": "des meubles rose dragée",
+			"agreement": false,
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FEBFD2",
+					"fidelity": "**",
+					"hue": 343,
+					"saturation": 22,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "vert d'eau",
+			"definition": "Vert pâle et doux.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "B0F2B6",
+					"fidelity": "**",
+					"hue": 125,
+					"saturation": 25,
+					"lightness": 88
+				}
+			]
+		},
+		{
+			"name": "ébène",
+			"definition": "Noir pur.",
+			"agreement": false,
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "écarlate",
+			"definition": "Rouge vif.",
+			"note": "A acquis le statut d'adjectif, et s'accorde.",
+			"example": "des foulards écarlates",
+			"agreement": true,
+			"etymology": "persan <em>saqirlât</em> : étoffe originellement bleue, puis rouge",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "ED0000",
+					"fidelity": "**",
+					"hue": 0,
+					"saturation": 93,
+					"lightness": 20
+				}
+			]
+		},
+		{
+			"name": "rouge écrevisse",
+			"definition": "Rouge vif, légèrement orangé, de la couleur d'une écrevisse cuite.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "BC2001",
+					"fidelity": "**",
+					"hue": 9,
+					"saturation": 68,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "écru",
+			"definition": "Blanc légèrement teinté de jaune. Couleur de la toile non blanchie.",
+			"agreement": true,
+			"feminine": "écrue",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEE0",
+					"fidelity": "***",
+					"hue": 60,
+					"saturation": 12,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "bleu électrique",
+			"definition": "Bleu vif, très lumineux.",
+			"example": "un amat de tôles bleu électrique",
+			"agreement": false,
+			"etymology": "grec <em>êlektron</em> : ambre jaune, d'après sa propriété d'attirer les corps légers quand on l'a frotté",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "2C75FF",
+					"fidelity": "***",
+					"hue": 220,
+					"saturation": 73,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "émeraude",
+			"definition": "Vert intense, très légèrement bleuté de la pierre du même nom.",
+			"synonym": "smaragdin",
+			"agreement": false,
+			"etymology": "grec <em>smaragdos</em>",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "01D758",
+					"fidelity": "***",
+					"hue": 144,
+					"saturation": 73,
+					"lightness": 63
+				}
+			]
+		},
+		{
+			"name": "vert empire",
+			"definition": "Vert sombre et soutenu, légèrement bleuté.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "00561B",
+					"fidelity": "*",
+					"hue": 138,
+					"saturation": 30,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "noir d'encre",
+			"definition": "Noir profond et pur, noir de l'encre de Chine.",
+			"agreement": false,
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "vert épinard",
+			"definition": "Vert profond, de la couleur des feuilles de l'épinard.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "175732",
+					"fidelity": "**",
+					"hue": 145,
+					"saturation": 22,
+					"lightness": 28
+				}
+			]
+		},
+		{
+			"name": "blanc d'Espagne",
+			"definition": "Blanc légèrement crème.",
+			"synonym": "blanc de Meudon, blanc de Troyes",
+			"note": "Carbonate de calcium extrèmement pur. Il s'agit de craie broyée (carbonate de calcium naturel). C'est un pigment peu couvrant, le moins coûteux de tous les pigments blancs.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFDF0",
+					"hue": 56,
+					"saturation": 5,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "étain",
+			"definition": "Blanc comme l'étain pur ou gris mat comme l'étain oxydé.",
+			"example": "sous le ciel couvert, une mer d'étain",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "EDEDED",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 93
+				},
+				{
+					"rgb": "BABABA",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 73
+				}
+			]
+		},
+		{
+			"name": "violet d'évêque",
+			"definition": "Du violet de la robe des évêques.",
+			"note": "Voir aussi : rouge cardinal.",
+			"example": "un veston de chasse en velours violet d'évêque",
+			"agreement": false,
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "723E64",
+					"fidelity": "*",
+					"hue": 315,
+					"saturation": 18,
+					"lightness": 30
+				}
+			]
+		},
+		{
+			"name": "fauve",
+			"definition": "Ocre orangé à roux ou tirant sur le roux.",
+			"note": "A acquis le statut d'adjectif, et s'accorde.",
+			"example": "des pelages fauves",
+			"agreement": true,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "AD4F09",
+					"fidelity": "**",
+					"hue": 25,
+					"saturation": 56,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "gris fer",
+			"definition": "Gris moyen terne.",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "7F7F7F",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "fer",
+			"definition": "Gris",
+			"agreement": false,
+			"domain": "héraldique",
+			"style": "rare",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "848484",
+					"fidelity": "*",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 52
+				}
+			]
+		},
+		{
+			"name": "rouge feu",
+			"definition": "Rouge vif à rouge orangé vif. Rappelle plus la couleur des braises que celle des flammes.",
+			"example": "la lumière rouge feu des braises",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "FE1B00",
+					"fidelity": "**",
+					"hue": 6,
+					"saturation": 95,
+					"lightness": 29
+				},
+				{
+					"rgb": "FF4901",
+					"fidelity": "**",
+					"hue": 16,
+					"saturation": 89,
+					"lightness": 42
+				}
+			]
+		},
+		{
+			"name": "feuille morte",
+			"definition": "Brun-roux un peu terne, noisette rougeâtre, couleur des feuilles mortes.",
+			"example": "des gants de cuir feuille morte",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "99512B",
+					"fidelity": "**",
+					"hue": 20,
+					"saturation": 38,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "flave",
+			"definition": "Fait partie du champ chromatique jaune.",
+			"example": "une barbe maigre et flave",
+			"agreement": true,
+			"etymology": "latin <em>flavuus</em> : jaune",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E6E697",
+					"fidelity": "*",
+					"hue": 60,
+					"saturation": 31,
+					"lightness": 88
+				}
+			]
+		},
+		{
+			"name": "fleur de soufre",
+			"synonym": "soufre",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFFF6B",
+					"fidelity": "**",
+					"hue": 60,
+					"saturation": 58,
+					"lightness": 96
+				}
+			]
+		},
+		{
+			"name": "fraise",
+			"definition": "Rouge moyen doux. Couleur du fruit de même nom.",
+			"example": "de beaux tailleurs fraise",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "BF3030",
+					"fidelity": "**",
+					"hue": 0,
+					"saturation": 56,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "fraise écrasée",
+			"definition": "Fraise profond",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "A42424",
+					"fidelity": "**",
+					"hue": 0,
+					"saturation": 50,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "framboise",
+			"definition": "Entre rouge moyen et pourpre doux. Couleur du fruit de même nom. Version rosée de la couleur rouge fraise.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "C72C48",
+					"fidelity": "**",
+					"hue": 350,
+					"saturation": 56,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "bleu France",
+			"synonym": "bleu roi",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "318CE7",
+					"fidelity": "**",
+					"hue": 210,
+					"saturation": 62,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "fuchsia",
+			"definition": "Entre rose bonbon et pourpre",
+			"agreement": false,
+			"etymology": "nom propre <em>Fuchs</em> : botaniste",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FD3F92",
+					"fidelity": "**",
+					"hue": 334,
+					"saturation": 65,
+					"lightness": 43
+				}
+			]
+		},
+		{
+			"name": "bleu fumée",
+			"definition": "Bleu pâle grisâtre à gris bleuâtre.",
+			"example": "les tissus bleu fumée des sièges",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "BBD2E1",
+					"fidelity": "**",
+					"hue": 204,
+					"saturation": 13,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "noir de fumée",
+			"synonym": "noir de carbone",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				},
+				{
+					"rgb": "130E0A",
+					"fidelity": "**",
+					"hue": 26,
+					"saturation": 3,
+					"lightness": 6
+				}
+			]
+		},
+		{
+			"name": "garance",
+			"definition": "Rouge vif. Couleur des pantalons militaires français au début de la première guerre mondiale.",
+			"note": "L'abandon de cet uniforme, pour des raisons évidentes de camouflage, provoqua l'arrêt de la culture de la garance, qui existe cependant encore à l'état sauvage.",
+			"agreement": false,
+			"etymology": "francique <em>wratja</em>",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "EE1010",
+					"fidelity": "*",
+					"hue": 0,
+					"saturation": 87,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "vert gazon",
+			"synonym": "vert herbe",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "3A9D23",
+					"fidelity": "**",
+					"hue": 110,
+					"saturation": 44,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "bleu givré",
+			"definition": "Bleu clair doux légèrement vert. Cyan moyen fade.",
+			"example": "une forêt de sapins bleu givré",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "80D0D0",
+					"fidelity": "*",
+					"hue": 180,
+					"saturation": 31,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "glauque",
+			"definition": "Vert moyen tirant sur le bleu.",
+			"agreement": true,
+			"etymology": "grec <em>glaukos</em>",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "649B88",
+					"fidelity": "**",
+					"hue": 160,
+					"saturation": 19,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "gorge de pigeon",
+			"definition": "Aux reflets changeants, allant du rose au bleu.",
+			"note": "Voir aussi : colombin. Le célèbre tissu de soie gorge de pigeon est composé de trois couleurs: gris perle, bleu ciel et rose.",
+			"example": "des foulards gorge de pigeon",
+			"agreement": false
+
+		},
+		{
+			"name": "grège",
+			"definition": "Entre gris et beige",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "BBAE98",
+					"fidelity": "*",
+					"hue": 39,
+					"saturation": 12,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "grenadine",
+			"definition": "Rouge clair très légèrement rosé de la boisson de même nom. Implique souvent une idée de transparence.",
+			"example": "des billes rouge grenadine",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "E9383F",
+					"fidelity": "**",
+					"hue": 358,
+					"saturation": 68,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "grenat",
+			"definition": "Rouge sombre très légèrement rosé.",
+			"agreement": false,
+			"etymology": "anc. français <em>pomme grenade</em> : grenade",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "6E0B14",
+					"fidelity": "***",
+					"hue": 355,
+					"saturation": 37,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "gris",
+			"definition": "Couleur du ciel couvert, du fer ou du mercure. Toute couleur résultant du mélange de blanc et de noir.",
+			"agreement": true,
+			"feminine": "grise",
+			"etymology": "francique <em>grîs</em>",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "606060",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 38
+				},
+				{
+					"rgb": "BFBFBF",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "gris",
+			"definition": "Robe à poils gris et blancs mélangés. Constitue, avec aubère et louvet, les trois types de robes mélangées.",
+			"agreement": true,
+			"feminine": "grise",
+			"domain": "chevaux"
+		},
+		{
+			"name": "gris de lin",
+			"definition": "Gris violâtre. Couleur de la filasse de lin.",
+			"agreement": false,
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "D2CAEC",
+					"fidelity": "*",
+					"hue": 254,
+					"saturation": 12,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "gris de maure",
+			"definition": "Gris-brun foncé, couleur du papillon de nuit du même nom.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "685E43",
+					"fidelity": "*",
+					"hue": 44,
+					"saturation": 13,
+					"lightness": 37
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -2685,6 +3347,318 @@
 			"agreement": true,
 			"feminine": "cuivrée",
 			"field": "orange"
+		},
+		{
+			"name": "délavé",
+			"definition": "Très pâle, passé. Qui a perdu de sa couleur au lavage.",
+			"synonym": "élavé",
+			"agreement": true,
+			"feminine": "délavée",
+			"applied": {
+				"plain": "orange",
+				"plainColor": "FF7F00",
+				"qualified": "orange délavé",
+				"qualifiedColor": "FAC793"
+			}
+		},
+		{
+			"name": "diapré",
+			"definition": "Qui présente des couleurs variées et changeantes.",
+			"example": "un tissu diapré",
+			"agreement": true,
+			"feminine": "diaprée"
+		},
+		{
+			"name": "doré",
+			"definition": "Qui a la couleur ou les reflets de l'or.",
+			"note": "Voir aussi : flavescent.",
+			"agreement": true,
+			"feminine": "dorée",
+			"field": "jaune",
+			"applied": {
+				"plain": "rose",
+				"plainColor": "E89188",
+				"qualified": "rose doré",
+				"qualifiedColor": "E78F77"
+			}
+		},
+		{
+			"name": "doux",
+			"definition": "Moyennement saturé et plutôt clair.",
+			"agreement": true,
+			"feminine": "douce",
+			"applied": {
+				"plain": "jaune",
+				"plainColor": "FFEA18",
+				"qualified": "jaune doux",
+				"qualifiedColor": "F8E74F"
+			}
+		},
+		{
+			"name": "dur",
+			"definition": "Vif, peut-être légèrement froid ou acide.",
+			"agreement": true,
+			"feminine": "dure",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "33A9FF",
+				"qualified": "bleu dur",
+				"qualifiedColor": "00BBFF"
+			}
+		},
+		{
+			"name": "éburné",
+			"definition": "Qui a l'aspect, la couleur de l'ivoire",
+			"synonym": "éburnéen, éburnin, ivoirin",
+			"agreement": true,
+			"feminine": "éburnée",
+			"field": "blanc"
+		},
+		{
+			"name": "éburnéen",
+			"synonym": "éburné",
+			"agreement": true,
+			"feminine": "éburnéenne",
+			"field": "blanc"
+		},
+		{
+			"name": "éburnin",
+			"synonym": "éburné",
+			"agreement": true,
+			"feminine": "éburnine",
+			"field": "blanc"
+		},
+		{
+			"name": "éclatant",
+			"definition": "Lumineux.",
+			"agreement": true,
+			"feminine": "éclatante",
+			"applied": {
+				"plain": "blanc",
+				"plainColor": "EFEFEF",
+				"qualified": "blanc éclatant",
+				"qualifiedColor": "FEFEFE"
+			}
+		},
+		{
+			"name": "élavé",
+			"synonym": "délavé",
+			"example": "une maison au toit élavé",
+			"agreement": true,
+			"feminine": "élavée",
+			"etymology": "ancien français <em>eslaver</em> : laver",
+			"style": "rare",
+			"applied": {
+				"plain": "orange",
+				"plainColor": "FF7F00",
+				"qualified": "orange délavé",
+				"qualifiedColor": "FAC793"
+			}
+		},
+		{
+			"name": "empourpré",
+			"definition": "Qui a pris une teinte rouge, pourpre, souvent à propos du visage.",
+			"note": "Verbe : empourprer",
+			"agreement": true,
+			"feminine": "empourprée",
+			"field": "rouge"
+		},
+		{
+			"name": "enluminé",
+			"definition": "Vivement coloré.",
+			"agreement": true,
+			"feminine": "enluminée"
+		},
+		{
+			"name": "érubescent",
+			"definition": "Qui devient rouge",
+			"agreement": true,
+			"feminine": "érubescente",
+			"field": "rouge"
+		},
+		{
+			"name": "éteint",
+			"definition": "Sans éclat, moyen et pâle, rabattu.",
+			"agreement": true,
+			"feminine": "éteinte",
+			"applied": {
+				"plain": "tabac",
+				"plainColor": "A66728",
+				"qualified": "tabac éteint",
+				"qualifiedColor": "72583D"
+			}
+		},
+		{
+			"name": "étincelant",
+			"definition": "Brillant, éclatant.",
+			"agreement": true,
+			"feminine": "étincelante",
+			"applied": {
+				"plain": "rouge",
+				"plainColor": "E02121",
+				"qualified": "rouge étincelant",
+				"qualifiedColor": "FE0000"
+			}
+		},
+		{
+			"name": "fadasse",
+			"definition": "Fade et sale",
+			"agreement": true,
+			"style": "péjoratif"
+		},
+		{
+			"name": "fade",
+			"definition": "Faiblement saturé",
+			"agreement": true,
+			"applied": {
+				"plain": "lavande",
+				"plainColor": "9995FB",
+				"qualified": "lavande fade",
+				"qualifiedColor": "A2A1BB"
+			}
+		},
+		{
+			"name": "fané",
+			"definition": "Pâle, grisâtre. Qui a perdu de sa couleur comme une fleur en se fanant.",
+			"agreement": true,
+			"feminine": "fanée",
+			"applied": {
+				"plain": "lilas",
+				"plainColor": "C130FF",
+				"qualified": "lilas fané",
+				"qualifiedColor": "B792C5"
+			}
+		},
+		{
+			"name": "flamboyant",
+			"definition": "Qui est d'un rouge resplendissant, éclatant.",
+			"synonym": "rutilant",
+			"agreement": true,
+			"feminine": "flamboyante",
+			"field": "rouge"
+		},
+		{
+			"name": "flammé",
+			"definition": "Qui présente des tons variés produit par le feu pendant la cuisson.",
+			"agreement": true,
+			"feminine": "flammée",
+			"domain": "céramique"
+		},
+		{
+			"name": "flavescent",
+			"definition": "Qui tire sur le blond ou le jaune d'or.",
+			"agreement": true,
+			"feminine": "flavescente",
+			"field": "jaune",
+			"applied": {
+				"plain": "brun",
+				"plainColor": "A37341",
+				"qualified": "brun flavescent",
+				"qualifiedColor": "A2720A"
+			}
+		},
+		{
+			"name": "fluo",
+			"definition": "Vif, lumineux",
+			"agreement": false,
+			"applied": {
+				"plain": "jaune",
+				"plainColor": "F4EA44",
+				"qualified": "jaune fluo",
+				"qualifiedColor": "FFFF00"
+			}
+		},
+		{
+			"name": "foncé",
+			"definition": "Peu lumineux, tirant sur le noir.",
+			"agreement": true,
+			"feminine": "foncée",
+			"applied": {
+				"plain": "cerise",
+				"plainColor": "E50000",
+				"qualified": "cerise foncé",
+				"qualifiedColor": "990000"
+			}
+		},
+		{
+			"name": "franc",
+			"definition": "Intense. Qui n'est ni pâle, ni fade.",
+			"agreement": true,
+			"feminine": "franche",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "2D0EDB",
+				"qualified": "bleu franc",
+				"qualifiedColor": "2C07FF"
+			}
+		},
+		{
+			"name": "froid",
+			"definition": "Clair et un peu fade. Pour un bleu: tirant légèrement sur le vert.",
+			"agreement": true,
+			"feminine": "froide",
+			"applied": {
+				"plain": "azur",
+				"plainColor": "74D0F1",
+				"qualified": "azur froid",
+				"qualifiedColor": "77F3F0"
+			}
+		},
+		{
+			"name": "fuligineux",
+			"definition": "Qui a la couleur, l'aspect de la suie, noir.",
+			"agreement": true,
+			"feminine": "fuligineuse",
+			"field": "noir"
+		},
+		{
+			"name": "glacé",
+			"definition": "Qui est froid ou luisant. Plutôt en association avec une couleur froide (bleu ou vert-bleu).",
+			"note": "Voir aussi : froid.",
+			"example": "des lames de métal bleu glacé",
+			"agreement": true,
+			"feminine": "glacée",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "22869C",
+				"qualified": "bleu glacé",
+				"qualifiedColor": "3592A2"
+			}
+		},
+		{
+			"name": "grisaille",
+			"definition": "Qui tire sur le gris, qui rappelle les gris d'une grisaille.",
+			"note": "Vient de la technique picturale du même nom, qui consiste à peindre en camaïeu de gris pour donner l'illusion d'une sculpture en relief.",
+			"example": "des yeux vert grisaille",
+			"agreement": false,
+			"style": "rare",
+			"field": "gris",
+			"applied": {
+				"plain": "vert",
+				"plainColor": "69CF69",
+				"qualified": "vert grisaille",
+				"qualifiedColor": "7BC87B"
+			}
+		},
+		{
+			"name": "grisâtre",
+			"definition": "Qui tire sur le gris",
+			"agreement": true,
+			"field": "gris"
+		},
+		{
+			"name": "grisé",
+			"definition": "Teinté de gris.",
+			"agreement": true,
+			"feminine": "grisée",
+			"field": "gris"
+		},
+		{
+			"name": "grivelé",
+			"definition": "Tacheté de blanc et de brun, comme le ventre de la grive.",
+			"note": "Substantif : grivelure.",
+			"agreement": true,
+			"feminine": "grivelée"
 		}
 	]
 }

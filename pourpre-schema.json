@@ -64,7 +64,7 @@
 					},
 					"domain": {
 						"type": "string",
-						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture", "cigare" ]
+						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture", "cigare", "céramique" ]
 					},
 					"style": {
 						"type": "string",
@@ -94,6 +94,9 @@
 					"synonym": { "type": "string" },
 					"field": {
 						"$ref": "#/properties/colorNames/items/properties/field"
+					},
+					"style": {
+						"$ref": "#/properties/colorNames/items/properties/style"
 					},
 					"example": { "type": "string" },
 					"applied": {

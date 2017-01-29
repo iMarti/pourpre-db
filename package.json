@@ -1,6 +1,6 @@
 {
 	"name": "pourpre-db",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"description": "Database of French color names from former pourpre.com website in JSON format",
 	"main": "index.js",
 	"scripts": {
