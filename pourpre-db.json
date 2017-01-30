@@ -2903,6 +2903,327 @@
 					"lightness": 37
 				}
 			]
+		},
+		{
+			"name": "groseille",
+			"definition": "Rouge vif, pouvant se teinter très légèrement de rose. Fait partie du champ chromatique rouge.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "CF0A1D",
+					"fidelity": "**",
+					"hue": 355,
+					"saturation": 74,
+					"lightness": 21
+				}
+			]
+		},
+		{
+			"name": "bleu de guède",
+			"synonym": "pastel",
+			"note": "Le guède est la plante plus connue sous le nom de pastel.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "56739A",
+					"hue": 215,
+					"saturation": 23,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "gueules",
+			"definition": "Rouge.",
+			"note": "Autre étymologie possible: persan \"gul\", rose",
+			"agreement": false,
+			"etymology": "latin <em>gûla</em> : gosier",
+			"domain": "héraldique",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "E21313",
+					"fidelity": "***",
+					"hue": 0,
+					"saturation": 81,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "vert herbe",
+			"definition": "Vert jaunâtre soutenu, couleur de l'herbe.",
+			"synonym": "vert gazon",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "3A9D23",
+					"fidelity": "**",
+					"hue": 110,
+					"saturation": 44,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "vert de Hooker",
+			"definition": "Vert herbe jaunâtre et sombre.",
+			"agreement": false,
+			"etymology": "nom propre <em>Hooker</em> : botaniste",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "1B4F08",
+					"fidelity": "*",
+					"hue": 105,
+					"saturation": 25,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "jaune impérial",
+			"definition": "Jaune doux et chaud, très légèrement orangé.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFE436",
+					"fidelity": "**",
+					"hue": 53,
+					"saturation": 74,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "vert impérial",
+			"synonym": "vert empire",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "00561B",
+					"fidelity": "*",
+					"hue": 138,
+					"saturation": 30,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "incarnadin",
+			"definition": "Plus clair, un peu moins soutenu que l'incarnat",
+			"example": "les bouches incarnadines des angelots",
+			"agreement": true,
+			"feminine": "incarnadine",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FE96A0",
+					"fidelity": "**",
+					"hue": 355,
+					"saturation": 39,
+					"lightness": 68
+				}
+			]
+		},
+		{
+			"name": "incarnat",
+			"definition": "Rouge-rose clair et vif, proche de la couleur de la chair.",
+			"agreement": true,
+			"feminine": "incarnate",
+			"etymology": "latin <em>caro</em> : chair",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "FF6F7D",
+					"fidelity": "**",
+					"hue": 355,
+					"saturation": 54,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "indigo",
+			"definition": "Bleu foncé violacé.",
+			"note": "Colorant extrait de l'indigotier.",
+			"agreement": false,
+			"etymology": "latin <em>indicum</em> : de l'Inde",
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "791CF8",
+					"fidelity": "**",
+					"hue": 265,
+					"saturation": 75,
+					"lightness": 25
+				},
+				{
+					"rgb": "2E006C",
+					"fidelity": "**",
+					"hue": 265,
+					"saturation": 37,
+					"lightness": 7
+				}
+			]
+		},
+		{
+			"name": "isabelle",
+			"definition": "Robe café au lait, extrémités et crins noirs. Constitue, avec bai et souris, les trois types de robes composées.",
+			"note": "Autre origine possible du mot: Isabelle la Catholique aurait fait le voeu, au siège de Grenade en 1491, de ne changer de chemise qu'à la fin du siège. La couleur viendrait donc de celle qu'avait pris le vêtement à la fin du siège...",
+			"agreement": false,
+			"etymology": "arabe <em>hizah</em> : lion, d'où \"couleur du lion\"",
+			"domain": "chevaux",
+			"colors": [
+				{
+					"rgb": "785E2F",
+					"hue": 40,
+					"saturation": 25,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "ivoire",
+			"definition": "Blanc laiteux, ou très légèrement gris-jaunâtre comme le vieil ivoire patiné.",
+			"agreement": false,
+			"etymology": "latin <em>ebur</em>",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				},
+				{
+					"rgb": "FFFFD4",
+					"fidelity": "**",
+					"hue": 60,
+					"saturation": 17,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "noir divoire",
+			"definition": "Noir profond, pur, obtenu par calcination d'os très durs.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "jade",
+			"definition": "Vert doux et laiteux.",
+			"variants": [ "vert jade" ],
+			"agreement": false,
+			"etymology": "latin <em>ilia</em> : flanc",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "87E990",
+					"fidelity": "***",
+					"hue": 125,
+					"saturation": 37,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "jais",
+			"definition": "Noir brillant, souvent à reflets bleu métallique.",
+			"synonym": "aile de corbeau",
+			"agreement": false,
+			"etymology": "latin <em>gagâtes</em> : pierre de Gages, en Lycie",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "jaune",
+			"definition": "Couleur du citron, du soufre, du bouton d'or. Couvre de nombreuses teintes, depuis l'ocre et le jaune safran jusqu'au jaune moutarde ou canari. Couleur primaire en synthèse soustractive (voir magenta et cyan).",
+			"agreement": true,
+			"etymology": "latin <em>gâlbînus</em>",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFFF21",
+					"fidelity": "***",
+					"hue": 60,
+					"saturation": 87,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "kaki",
+			"definition": "Brun jaunâtre.",
+			"example": "les tenues kaki des soldats des Indes",
+			"agreement": false,
+			"etymology": "persan <em>khâh</em> : poussière",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "94812B",
+					"fidelity": "***",
+					"hue": 50,
+					"saturation": 38,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "vert kaki",
+			"definition": "Vert olive tirant sur le brun.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "798933",
+					"fidelity": "***",
+					"hue": 70,
+					"saturation": 31,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "bleu Klein",
+			"definition": "Sorte de bleu outremer profond.",
+			"note": "Couleur \"déposée\" par Yves Klein, sous le nom \"IKB\" pour \"International Klein Blue\"",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "21177D",
+					"fidelity": "***",
+					"hue": 245,
+					"saturation": 38,
+					"lightness": 13
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -3659,6 +3980,65 @@
 			"note": "Substantif : grivelure.",
 			"agreement": true,
 			"feminine": "grivelée"
+		},
+		{
+			"name": "intense",
+			"definition": "Fortement saturé, haut en couleur.",
+			"agreement": true,
+			"applied": {
+				"plain": "mauve",
+				"plainColor": "C55FC5",
+				"qualified": "mauve intense",
+				"qualifiedColor": "E54CE5"
+			}
+		},
+		{
+			"name": "iridescent",
+			"definition": "Qui a des reflets irisés",
+			"example": "le plumage iridescent de la gorge des pigeons",
+			"agreement": true,
+			"feminine": "iridescente"
+		},
+		{
+			"name": "irisé",
+			"definition": "Qui a les couleurs de l'arc-en-ciel.",
+			"example": "Un verre irisé",
+			"agreement": true,
+			"feminine": "irisée"
+		},
+		{
+			"name": "ivoirin",
+			"definition": "Qui a la couleur, l'apparence de l'ivoire.",
+			"synonym": "éburné",
+			"agreement": true,
+			"feminine": "ivoirine",
+			"field": "blanc"
+		},
+		{
+			"name": "jaunâtre",
+			"definition": "Qui tire sur le jaune.",
+			"agreement": true,
+			"field": "jaune",
+			"applied": {
+				"plain": "brun",
+				"plainColor": "965E20",
+				"qualified": "brun jaunâtre",
+				"qualifiedColor": "95701F"
+			}
+		},
+		{
+			"name": "jaunet",
+			"definition": "Légèrement jaune",
+			"agreement": true,
+			"field": "jaune"
+		},
+		{
+			"name": "jauni",
+			"definition": "Qui a pris une teine jaune.",
+			"example": "un livre aux pages jaunies par le temps",
+			"agreement": true,
+			"feminine": "jaunie",
+			"field": "jaune"
 		}
 	]
 }
