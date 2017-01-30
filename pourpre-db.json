@@ -3224,6 +3224,267 @@
 					"lightness": 13
 				}
 			]
+		},
+		{
+			"name": "blanc de lait",
+			"definition": "Blanc, de la couleur du lait.",
+			"note": "Voir aussi : laiteux, lactecent, lacté",
+			"example": "des bras de lait",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FBFCFA",
+					"fidelity": "**",
+					"hue": 90,
+					"saturation": 1,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "lapis-lazuli",
+			"variants": [ "lapis", "bleu lapis-lazuli" ],
+			"definition": "Bleu intense, bleu azur profond, de la couleur de la pierre semi-précieuse du même nom.",
+			"note": "\"Voir aussi : bleu outremer. Autrefois utilisé en peinture (on broyait la pierre pour constituer le pigment), le lapis-lazuli est remplacé au siècle dernier par un bleu de synthèse (bleu outremer), beaucoup moins onéreux.",
+			"agreement": false,
+			"etymology": "persan <em>lazward</em> : azur",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "26619C",
+					"fidelity": "*",
+					"hue": 210,
+					"saturation": 40,
+					"lightness": 35
+				}
+			]
+
+		},
+		{
+			"name": "lavallière",
+			"definition": "Brun clair tirant sur le feuille morte.",
+			"example": "un maroquin lavallière",
+			"agreement": false,
+			"domain": "reliure",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "8F5922",
+					"fidelity": "*",
+					"hue": 30,
+					"saturation": 37,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "lavande",
+			"definition": "Bleu-mauve clair.",
+			"agreement": false,
+			"etymology": "italien <em>lavanda</em> : qui sert à laver",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "9683EC",
+					"fidelity": "**",
+					"hue": 250,
+					"saturation": 38,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "vert lichen",
+			"definition": "Vert pâle et grisâtre, vert mousse clair.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "85C17E",
+					"fidelity": "**",
+					"hue": 115,
+					"saturation": 25,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "lie de vin",
+			"definition": "Rouge violacé légèrement fade.",
+			"agreement": false,
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "AC1E44",
+					"fidelity": "**",
+					"hue": 345,
+					"saturation": 50,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "lilas",
+			"definition": "Mauve violacé clair.",
+			"agreement": false,
+			"etymology": "persan <em>lilag</em>",
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "B666D2",
+					"fidelity": "**",
+					"hue": 285,
+					"saturation": 38,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "vert lime",
+			"definition": "Vert-jaune vif et clair.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "9EFD38",
+					"fidelity": "**",
+					"hue": 89,
+					"saturation": 67,
+					"lightness": 86
+				}
+			]
+		},
+		{
+			"name": "louvet",
+			"definition": "Robe à poil noirs et alezans mélangés. Constitue, avec aubère et gris, les trois types de robes mélangées.",
+			"agreement": false,
+			"domain": "chevaux"
+		},
+		{
+			"name": "blanc lunaire",
+			"definition": "Blanc tirant légèrement sur un bleu froid.",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "F4FEFE",
+					"fidelity": "**",
+					"hue": 180,
+					"saturation": 4,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "maduro",
+			"definition": "Brun-noir",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "372F25",
+					"fidelity": "**",
+					"hue": 35,
+					"saturation": 6,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "maduro colorado",
+			"definition": "Brun",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "5B3C11",
+					"fidelity": "**",
+					"hue": 35,
+					"saturation": 25,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "magenta",
+			"definition": "Rouge violacé vif. Couleur primaire en synthèse soustractive (voir jaune et cyan).",
+			"note": "Les troupes françaises et italiennes vainquirent les Autrichiens en 1859 en Italie à Magenta. L'année suivante, les Anglais ont donné ce nom de ville au colorant qui venait d'être découvert, en souvenir de cette bataille.",
+			"agreement": false,
+			"etymology": "nom propre <em>Magenta</em> : ville d'Italie",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "ED0FED",
+					"fidelity": "***",
+					"hue": 300,
+					"saturation": 87,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "maïs",
+			"definition": "Jaune-orangé laiteux.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFDE75",
+					"fidelity": "**",
+					"hue": 47,
+					"saturation": 49,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "bleu Majorelle",
+			"definition": "Bleu outremer clair et intense en restant relativement doux.",
+			"note": "En 1937 à Marrakech, l'artiste français Majorelle peint sa villa dans les tons vifs où domine le bleu qui prend son nom.",
+			"agreement": false,
+			"etymology": "nom propre <em>Majorelle</em> : artiste français du début du XXème siècle",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "6050DC",
+					"fidelity": "**",
+					"hue": 246,
+					"saturation": 52,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "malachite",
+			"definition": "Vert soutenu mais légèrement laiteux, couleur de la pierre du même nom.",
+			"note": "La malachite présente des alternances de veines claires et foncées.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "1FA055",
+					"fidelity": "**",
+					"hue": 145,
+					"saturation": 44,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "mandarine",
+			"definition": "Orange clair et doux, couleur de la chair d'une mandarine.",
+			"agreement": false,
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "FEA347",
+					"fidelity": "***",
+					"hue": 30,
+					"saturation": 62,
+					"lightness": 69
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -4039,6 +4300,102 @@
 			"agreement": true,
 			"feminine": "jaunie",
 			"field": "jaune"
+		},
+		{
+			"name": "lacté",
+			"definition": "Qui a l'aspect, la couleur du lait. Laiteux.",
+			"synonym": "laiteux",
+			"example": "elle était d'une pâleur lactée",
+			"agreement": true,
+			"feminine": "laiteuse",
+			"field": "blanc",
+			"applied": {
+				"plain": "sépia",
+				"plainColor": "B37F4C",
+				"qualified": "sépia laiteux",
+				"qualifiedColor": "C19B74"
+			}
+		},
+		{
+			"name": "lactescent",
+			"definition": "Qui a la teinte du lait.",
+			"note": "Voir aussi : laiteux, lacté",
+			"example": "Et dès lors je me suis baigné dans le Poème De la Mer, infusé d'astres, et lactescent (Rimbaud)",
+			"agreement": true,
+			"feminine": "lactescente",
+			"field": "blanc"
+		},
+		{
+			"name": "laiteux",
+			"definition": "Blanchâtre",
+			"synonym": "lacté",
+			"agreement": true,
+			"feminine": "laiteuse",
+			"field": "blanc",
+			"applied": {
+				"plain": "sépia",
+				"plainColor": "B37F4C",
+				"qualified": "sépia laiteux",
+				"qualifiedColor": "C19B74"
+			}
+		},
+		{
+			"name": "lavé",
+			"definition": "Fade, peu saturé",
+			"note": "Voir aussi : délavé",
+			"agreement": true,
+			"feminine": "délavée",
+			"applied": {
+				"plain": "vert",
+				"plainColor": "31CF37",
+				"qualified": "vert délavé",
+				"qualifiedColor": "80CD81"
+			}
+		},
+		{
+			"name": "livide",
+			"definition": "De couleur plombée, bleuâtre ou verdâtre et tirant sur le noir.",
+			"example": "un bras marqué de tuméfactions livides",
+			"agreement": true,
+			"domain": "peau",
+			"field": "bleu"
+		},
+		{
+			"name": "livide",
+			"definition": "Pâle, terne",
+			"agreement": true,
+			"domain": "peau"
+		},
+		{
+			"name": "lumineux",
+			"definition": "Clair et intense.",
+			"agreement": true,
+			"feminine": "lumineuse",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "2813B6",
+				"qualified": "bleu lumineux",
+				"qualifiedColor": "3213FD"
+			}
+		},
+		{
+			"name": "mâchuré",
+			"definition": "Barbouillé, souillé de noir.",
+			"note": "Verbe : mâchurer",
+			"agreement": true,
+			"feminine": "mâchurée",
+			"field": "noir"
+		},
+		{
+			"name": "malade",
+			"definition": "Pâle ou grisâtre.",
+			"agreement": true,
+			"applied": {
+				"plain": "bismark",
+				"plainColor": "A91F00",
+				"qualified": "bismarck malade",
+				"qualifiedColor": "984631"
+			}
 		}
 	]
 }

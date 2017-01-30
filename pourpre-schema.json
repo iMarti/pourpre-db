@@ -64,7 +64,7 @@
 					},
 					"domain": {
 						"type": "string",
-						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture", "cigare", "céramique" ]
+						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture", "cigare", "céramique", "reliure" ]
 					},
 					"style": {
 						"type": "string",
