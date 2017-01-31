@@ -3485,6 +3485,1038 @@
 					"lightness": 69
 				}
 			]
+		},
+		{
+			"name": "brun marengo",
+			"definition": "Brun rouge foncé piqueté de petits points blancs.",
+			"example": "une redingote brun marengo",
+			"agreement": false,
+			"etymology": "nom propre <em>Marengo</em> : village du Piémont",
+			"domain": "mode",
+			"field": "brun"
+		},
+		{
+			"name": "marine",
+			"definition": "Bleu à bleu verdâtre profond très foncé.",
+			"agreement": false,
+			"etymology": "latin <em>mare</em> : mer",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "03224C",
+					"fidelity": "**",
+					"hue": 215,
+					"saturation": 25,
+					"lightness": 12
+				}
+			]
+		},
+		{
+			"name": "marron",
+			"definition": "Brun tirant sur le rouge.",
+			"note": "Normalement invariable, on trouve souvent marron accordé en genre",
+			"example": "des chaussures marron(s)",
+			"agreement": false,
+			"etymology": "préroman <em>marr</em> : caillou",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "582900",
+					"fidelity": "***",
+					"hue": 28,
+					"saturation": 30,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "jaune de Mars",
+			"definition": "Ocre-jaune.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "EED153",
+					"fidelity": "*",
+					"hue": 50,
+					"saturation": 56,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "rouge de Mars",
+			"synonym": "rouge Anglais",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "BD4A4F",
+					"hue": 358,
+					"saturation": 44,
+					"lightness": 39
+				}
+			]
+		},
+		{
+			"name": "mastic",
+			"definition": "Beige clair à jaune grisâtre. Couleur du mastic de vitrier.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "B3B191",
+					"fidelity": "**",
+					"hue": 57,
+					"saturation": 13,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "mauve",
+			"definition": "Magenta passé.",
+			"note": "A acquis le statut d'adjectif, et s'accorde.",
+			"example": "des draps mauves",
+			"agreement": true,
+			"etymology": "latin <em>malva</em>",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "D473D4",
+					"fidelity": "***",
+					"hue": 300,
+					"saturation": 38,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "vert mélèze",
+			"definition": "Vert doux moyen, très légèrement bleuté.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "386F48",
+					"fidelity": "***",
+					"hue": 136,
+					"saturation": 19,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "melon",
+			"definition": "Orange jaunâtre, couleur de la chair du melon.",
+			"agreement": false,
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "DE9816",
+					"fidelity": "***",
+					"hue": 40,
+					"saturation": 69,
+					"lightness": 62
+				}
+			]
+		},
+		{
+			"name": "menthe",
+			"definition": "Vert tendre moyen. Indique une certaine transparence.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "16B84E",
+					"fidelity": "**",
+					"hue": 140,
+					"saturation": 56,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "menthe à l'eau",
+			"definition": "Vert clair et doux. Menthe délavé.",
+			"example": "des yeux menthe à l'eau",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "54F98D",
+					"fidelity": "**",
+					"hue": 140,
+					"saturation": 57,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "bleu de mers du sud",
+			"definition": "Bleu turquoise profond.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "00CCCB",
+					"fidelity": "**",
+					"hue": 180,
+					"saturation": 80,
+					"lightness": 63
+				}
+			]
+		},
+		{
+			"name": "blanc de Meudon",
+			"synonym": "blanc d'Espagne",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFDF0",
+					"hue": 56,
+					"saturation": 5,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "miel",
+			"definition": "Jaune d'or un peu plus chaud, reflets sombres. Implique une certaine transparence. Plus jaune que l'ambre.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "DAB30A",
+					"fidelity": "**",
+					"hue": 50,
+					"saturation": 75,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "vert militaire",
+			"definition": "Entre vert kaki et vert sombre.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "596643",
+					"fidelity": "***",
+					"hue": 81,
+					"saturation": 12,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "jaune mimosa",
+			"definition": "Jaune clair, chaud mais doux.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FEF86C",
+					"fidelity": "**",
+					"hue": 58,
+					"saturation": 56,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "miroité",
+			"definition": "En parlant d'un cheval bai: dont la robe présente des taches plus claires.",
+			"agreement": false,
+			"domain": "chevaux"
+		},
+		{
+			"name": "mordoré",
+			"definition": "Brun chaud à reflets dorés.",
+			"agreement": true,
+			"feminine": "mordorée",
+			"field": "brun"
+		},
+		{
+			"name": "moreau",
+			"definition": "D'un noir luisant.",
+			"example": "des chevaux moreaux, une jument morelle",
+			"agreement": true,
+			"feminine": "morelle",
+			"etymology": "latin <em>maurellus</em> : \"brun comme un Maure\"",
+			"domain": "chevaux",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "vert mousse",
+			"definition": "Vert doux.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "679F5A",
+					"fidelity": "**",
+					"hue": 110,
+					"saturation": 25,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "moutarde",
+			"definition": "Jaune soutenu très légèrement verdâtre.",
+			"agreement": false,
+			"etymology": "latin <em>mûstrum</em> : moût",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "C7CF00",
+					"fidelity": "**",
+					"hue": 62,
+					"saturation": 80,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "nacarat",
+			"definition": "Rouge clair, entre cerise et rose, à reflets nacrés.",
+			"agreement": false,
+			"etymology": "espagnol <em>nacarado</em> : nacré",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "FC5D5D",
+					"fidelity": "**",
+					"hue": 0,
+					"saturation": 62,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "nankin",
+			"definition": "Entre jaune chamois clair et abricot. De la couleur de la toile de Nankin.",
+			"agreement": true,
+			"etymology": "nom propre <em>Nankin</em> : ville de Chine, d'où provient originellement l'étoffe",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F7E269",
+					"hue": 52,
+					"saturation": 52,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "jaune de Naples",
+			"definition": "Jaune-beige très clair.",
+			"note": "En peinture, peut être utilisé à la place du blanc pour éclaircir une couleur sans l'assourdir.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFF0BC",
+					"fidelity": "**",
+					"hue": 47,
+					"saturation": 24,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "neige",
+			"definition": "Blanc pur et éclatant comme la neige.",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "noir",
+			"definition": "Couleur de la suie, du charbon, du plumage du corbeau. Couleur d'une surface ne réfléchissant aucun rayon lumineux.",
+			"agreement": true,
+			"feminine": "noire",
+			"etymology": "latin <em>nîger</em>",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "noir",
+			"definition": "Robe unie noire. Constitue, avec alezan, blanc et café au lait, les quatre types de robes simples.",
+			"agreement": true,
+			"feminine": "noire",
+			"domain": "chevaux"
+		},
+		{
+			"name": "noiraud",
+			"definition": "Qui a le teint brun ou les cheveux noirs.",
+			"note": "S'utilise aussi, rarement, pour désigner la couleur brun foncé d'objets: des gravures noiraudes.",
+			"agreement": true,
+			"feminine": "noiraude",
+			"style": "péjoratif",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				},
+				{
+					"rgb": "2F1E0E",
+					"fidelity": "*",
+					"hue": 30,
+					"saturation": 11,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "noisette",
+			"definition": "De la couleur du fruit de même nom. Brun-orange doux.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "955628",
+					"fidelity": "**",
+					"hue": 25,
+					"saturation": 37,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "bleu nuit",
+			"definition": "Bleu profond tirant très légèrement sur le violet. Plus sombre et moins violet que le bleu outremer.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "0F056B",
+					"fidelity": "**",
+					"hue": 245,
+					"saturation": 38,
+					"lightness": 6
+				}
+			]
+		},
+		{
+			"name": "ocre",
+			"definition": "Brun-jaune à brun-rouge clair et légèrement pâle.",
+			"note": "Ce terme englobe un grand nombre de couleurs, du jaune profond au rouge sombre. Ce sont toujours des tons chauds, mais la simple indication de \"teinte ocre\" est largement insuffisante pour se faire une idée de la couleur désignée. Bien qu'invariable, on trouve souvent dans la littérature cet adjectif accordé en nombre.",
+			"example": "les falaises ocre de Roussillon",
+			"agreement": false,
+			"etymology": "grec <em>ôkhros</em> : jaune",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "DFAF2C",
+					"fidelity": "**",
+					"hue": 45,
+					"saturation": 63,
+					"lightness": 69
+				},
+				{
+					"rgb": "DD985C",
+					"hue": 28,
+					"saturation": 44,
+					"lightness": 64
+				}
+			]
+		},
+		{
+			"name": "olive",
+			"definition": "Verdâtre tirant sur le brun.",
+			"agreement": false,
+			"etymology": "latin <em>oliva</em>",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "708D23",
+					"fidelity": "***",
+					"hue": 75,
+					"saturation": 37,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "terre d'ombre",
+			"definition": "Ocre-brun à brun.",
+			"agreement": false,
+			"etymology": "latin <em>ûmbra</em>",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "625B48",
+					"fidelity": "**",
+					"hue": 45,
+					"saturation": 9,
+					"lightness": 36
+				}
+			]
+		},
+		{
+			"name": "opalin",
+			"definition": "Qui a une teinte laiteuse et bleuâtre, avec des reflets irisés.",
+			"agreement": true,
+			"feminine": "opaline",
+			"example": "une porcelaine opaline",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "F2FFFF",
+					"fidelity": "**",
+					"hue": 180,
+					"saturation": 5,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "vert opaline",
+			"definition": "Vert moyen, pâle et laiteux, tirant légèrement sur le bleu.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "97DFC6",
+					"fidelity": "**",
+					"hue": 160,
+					"saturation": 25,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "or",
+			"definition": "Jaune sombre, couleur du métal de même nom. Sous-entend une certaine brillance. Peut désigner un ton froid ou chaud, selon le contexte.",
+			"agreement": false,
+			"etymology": "latin <em>aurum</em>",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "D2CB0F",
+					"fidelity": "***",
+					"hue": 58,
+					"saturation": 75,
+					"lightness": 75
+				},
+				{
+					"rgb": "DBCB12",
+					"fidelity": "***",
+					"hue": 56,
+					"saturation": 76,
+					"lightness": 76
+				}
+			]
+		},
+		{
+			"name": "orange",
+			"definition": "Couleur du fruit de même nom, du pelage du renard, de la carotte. Par extension, toute couleur moyennement vive, du roux juqu'au melon.",
+			"note": "En France, on trouve l'emploi du substantif \"orangé\" (\"l'une des couleurs fondamentales est l'orangé\"). Rarement employé au Québec, on préfère utiliser \"orange\" ou \"jaune orange\".",
+			"agreement": true,
+			"etymology": "arabe <em>narandj</em>",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "ED7F10",
+					"fidelity": "***",
+					"hue": 30,
+					"saturation": 75,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "orangé",
+			"definition": "Orange.",
+			"agreement": false,
+			"domain": "héraldique",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "FAA401",
+					"fidelity": "**",
+					"hue": 40,
+					"saturation": 86,
+					"lightness": 67
+				}
+			]
+		},
+		{
+			"name": "jaune d'or",
+			"definition": "Jaune vif et chaud.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "EFD807",
+					"fidelity": "***",
+					"hue": 55,
+					"saturation": 87,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "orpiment",
+			"definition": "D'un beau jaune doré pouvant tirer sur l'orangé profond.",
+			"agreement": false,
+			"etymology": "latin <em>auripigmentum</em> : couleur d'or",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FCD21C",
+					"fidelity": "*",
+					"hue": 50,
+					"saturation": 81,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "oscuro",
+			"definition": "Noirâtre. La plus sombre des couleurs de cigares.",
+			"agreement": false,
+			"domain": "cigare",
+			"colors": [
+				{
+					"rgb": "292107",
+					"fidelity": "*",
+					"hue": 46,
+					"saturation": 12,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "bleu outremer",
+			"definition": "Bleu profond et sombre, tirant sur le violet.",
+			"agreement": false,
+			"etymology": "latin <em>ûltra - mare</em> : au-delà - mer",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "2B009A",
+					"fidelity": "**",
+					"hue": 256,
+					"saturation": 54,
+					"lightness": 8
+				}
+			]
+		},
+		{
+			"name": "paille",
+			"definition": "Jaune pâle légèrement orangé.",
+			"agreement": false,
+			"etymology": "latin <em>palea</em> : balle de blé",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FEE347",
+					"fidelity": "**",
+					"hue": 52,
+					"saturation": 67,
+					"lightness": 87
+				}
+			]
+		},
+		{
+			"name": "bleu paon",
+			"definition": "Bleu moyen tirant un peu sur le vert, mais moins que le bleu canard. Souvent brillant.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "067790",
+					"fidelity": "***",
+					"hue": 190,
+					"saturation": 50,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "parme",
+			"definition": "Violet pâle.",
+			"agreement": true,
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "CFA0E9",
+					"fidelity": "***",
+					"hue": 279,
+					"saturation": 25,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "passe-velours",
+			"synonym": "amarante",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "91283B",
+					"fidelity": "***",
+					"hue": 350,
+					"saturation": 38,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "pastel",
+			"definition": "Bleu indigo doux. Colorant tiré de la plante de même nom.",
+			"synonym": "bleu guède",
+			"note": "La teinture au pastel sera remplacée au XVIème siècle par l'indigo, beaucoup moins cher à produire.",
+			"agreement": false,
+			"etymology": "languedocien <em>pastel</em> : pâte, car on réduisait le pastel - la plante - en pâte pour en extraire le colorant",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "56739A",
+					"hue": 215,
+					"saturation": 23,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "gris de Payne",
+			"definition": "Gris moyen tirant sur le bleu, mélange de noir de Mars et de blanc de zinc.",
+			"agreement": false,
+			"domain": "aquarelle",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "677179",
+					"fidelity": "**",
+					"hue": 206,
+					"saturation": 6,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "pêche",
+			"definition": "Rose pâle légèrement doré.",
+			"agreement": false,
+			"etymology": "latin <em>persica arbor</em> : arbre de Perse, d'où le pêcher est originaire",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FDBFB7",
+					"fidelity": "**",
+					"hue": 6,
+					"saturation": 26,
+					"lightness": 80
+				}
+			]
+		},
+		{
+			"name": "gris perle",
+			"definition": "Gris doux neutre à très légèrement verdâtre, avec un certain éclat blanc.",
+			"agreement": false,
+			"etymology": "latin <em>perna</em>",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "CECECE",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 81
+				},
+				{
+					"rgb": "C7D0CC",
+					"fidelity": "**",
+					"hue": 150,
+					"saturation": 3,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "vert perroquet",
+			"definition": "Vert vif et clair.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "3AF24B",
+					"fidelity": "**",
+					"hue": 125,
+					"saturation": 69,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "pers",
+			"definition": "D'une couleur intermédiaire entre le vert et le bleu. En parlant d'un bleu: qui tire sur le vert ou le violet.",
+			"note": "Au masculin, le 's' ne se prononce pas.",
+			"example": "Athena, la déesse aux yeux pers",
+			"agreement": true,
+			"feminine": "perse",
+			"field": "bleu"
+		},
+		{
+			"name": "bleu pétrole",
+			"definition": "Bleu profond, tirant sur le vert. Bleu paon sombre.",
+			"agreement": false,
+			"etymology": "latin <em>petra - oleum</em> : pierre - huile",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "1D4851",
+					"fidelity": "**",
+					"hue": 190,
+					"saturation": 19,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "pie",
+			"definition": "Noir et blanc, les deux couleurs étant clairement séparées.",
+			"example": "les voitures pie de la police anglaise",
+			"agreement": false
+		},
+		{
+			"name": "pie",
+			"definition": "Robe bicolore, composée de blanc en plus d'une robe simple (noire, alezane ou café au lait).",
+			"agreement": false,
+			"domain": "chevaux"
+		},
+		{
+			"name": "pinchard",
+			"definition": "Robe gris fer.",
+			"example": "une belle jument pincharde",
+			"agreement": true,
+			"feminine": "pincharde",
+			"domain": "chevaux",
+			"style": "vieilli",
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "CCCCCC",
+					"fidelity": "*",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 80
+				}
+			]
+		},
+		{
+			"name": "pistache",
+			"definition": "Vert-jaune pâle.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "BEF574",
+					"fidelity": "***",
+					"hue": 85,
+					"saturation": 44,
+					"lightness": 88
+				}
+			]
+		},
+		{
+			"name": "platine",
+			"definition": "Blond extrèmement pâle à blanc argenté.",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FAF0C5",
+					"fidelity": "**",
+					"hue": 50,
+					"saturation": 19,
+					"lightness": 94
+				}
+			]
+		},
+		{
+			"name": "plomb",
+			"definition": "Gris moyen bleuté.",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "798081",
+					"fidelity": "**",
+					"hue": 187,
+					"saturation": 3,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "blanc de plomb",
+			"synonym": "blanc de céruse",
+			"agreement": false,
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFEFE",
+					"fidelity": "**",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 100
+				}
+			]
+		},
+		{
+			"name": "poil de chameau",
+			"definition": "Tabac-jaune, couleur de la matière de même nom. L'équivalent anglais \"camel\" est (trop) souvent utilisé.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "B67823",
+					"fidelity": "**",
+					"hue": 35,
+					"saturation": 50,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "vert poireau",
+			"definition": "Vert doux des feuilles de poireau.",
+			"synonym": "poracé, prasin",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "4CA66B",
+					"fidelity": "*",
+					"hue": 140,
+					"saturation": 31,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "poivre et sel",
+			"definition": "Gris parsemé de blanc.",
+			"agreement": false,
+			"domain": "cheveux"
+		},
+		{
+			"name": "vert pomme",
+			"definition": "Vert vif de la pomme Grany.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "34C924",
+					"fidelity": "**",
+					"hue": 115,
+					"saturation": 62,
+					"lightness": 62
+				}
+			]
+		},
+		{
+			"name": "ponceau",
+			"synonym": "coquelicot",
+			"note": "Le ponceau est le pavot sauvage rouge plus connu sous le nom de coquelicot.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "C60800",
+					"fidelity": "**",
+					"hue": 2,
+					"saturation": 76,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "pourpre",
+			"definition": "Rouge violacé profond.",
+			"note": "A acquis le statut d'adjectif, et s'accorde. Le substantif désigne la couleur rouge: la pourpre du sang",
+			"example": "les robes pourpres des cardinaux",
+			"agreement": true,
+			"etymology": "grec <em>porphura</em>",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "9E0E40",
+					"fidelity": "***",
+					"hue": 340,
+					"saturation": 50,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "pourpre",
+			"definition": "Pourpre à gris-violacé.",
+			"agreement": true,
+			"domain": "héraldique",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "965578",
+					"fidelity": "*",
+					"hue": 327,
+					"saturation": 22,
+					"lightness": 40
+				}
+			]
+		},
+		{
+			"name": "jaune poussin",
+			"definition": "Jaune chaud, clair et doux, qui rappelle le côté duveteux du poussin.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F7E35F",
+					"fidelity": "**",
+					"hue": 53,
+					"saturation": 56,
+					"lightness": 87
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -4396,6 +5428,244 @@
 				"qualified": "bismarck malade",
 				"qualifiedColor": "984631"
 			}
+		},
+		{
+			"name": "metallique",
+			"definition": "Qui a l'éclat, les reflets du métal poli.",
+			"agreement": true
+		},
+		{
+			"name": "miroité",
+			"definition": "Qui est lustré par endroits, qui présente des moirures.",
+			"example": "un fauteuil de velours miroité",
+			"agreement": true,
+			"feminine": "miroitée",
+			"domain": "tissu",
+			"style": "vieilli"
+		},
+		{
+			"name": "moiré",
+			"definition": "D'aspect ondé, changeant. Chatoyant.",
+			"agreement": true,
+			"feminine": "moirée"
+		},
+		{
+			"name": "monochrome",
+			"definition": "Peint d'une seule couleur.",
+			"note": "Voir aussi : unicolore, concolore",
+			"agreement": true
+		},
+		{
+			"name": "mordoré",
+			"definition": "Qui présente des reflets brun rouge.",
+			"agreement": true,
+			"feminine": "mordorée"
+		},
+		{
+			"name": "moyen",
+			"definition": "Moyennement foncé.",
+			"agreement": true,
+			"feminine": "moyenne",
+			"applied": {
+				"plain": "rose",
+				"plainColor": "FF6DAB",
+				"qualified": "rose moyen",
+				"qualifiedColor": "EE5B9A"
+			}
+		},
+		{
+			"name": "multicolore",
+			"definition": "De nombreuses couleurs.",
+			"note": "Voir aussi : polychrome",
+			"agreement": true
+		},
+		{
+			"name": "mûr",
+			"definition": "Profond et chaud. Essentiellement associé aux noms de couleurs correspondants à des noms de fruits ou légumes.",
+			"agreement": true,
+			"feminine": "mûre",
+			"applied": {
+				"plain": "blé",
+				"plainColor": "E7DE4D",
+				"qualified": "blé mûr",
+				"qualifiedColor": "F3D842"
+			}
+		},
+		{
+			"name": "nacré",
+			"definition": "Irisé comme la nacre.",
+			"agreement": true,
+			"feminine": "nacrée"
+		},
+		{
+			"name": "noirâtre",
+			"definition": "Qui tire sur le noir.",
+			"agreement": true,
+			"field": "noir",
+			"applied": {
+				"plain": "violet",
+				"plainColor": "781F96",
+				"qualified": "violet noirâtre",
+				"qualifiedColor": "58176E"
+			}
+		},
+		{
+			"name": "noirci",
+			"definition": "Qui a pris une teinte noire, qui s'est fortement assombri.",
+			"note": "Verbe : noircir",
+			"example": "des pièces de monnaie noircies",
+			"agreement": true,
+			"feminine": "noircie",
+			"field": "noir"
+		},
+		{
+			"name": "ochracé",
+			"definition": "Qui est d'un rouge pâle et mat comme l'ocre.",
+			"agreement": true,
+			"feminine": "ochracée",
+			"style": "rare",
+			"field": "jaune"
+		},
+		{
+			"name": "ocré",
+			"definition": "De couleur ocre, tirant sur l'ocre pâle.",
+			"synonym": "ochracé",
+			"agreement": true,
+			"feminine": "ocrée",
+			"field": "jaune"
+		},
+		{
+			"name": "olivacé",
+			"definition": "De couleur vert olive, ou tirant sur le vert olive.",
+			"agreement": true,
+			"feminine": "olivacée",
+			"field": "vert"
+		},
+		{
+			"name": "olivâtre",
+			"definition": "Qui tire sur le vert olive.",
+			"agreement": true,
+			"field": "vert"
+		},
+		{
+			"name": "ondé",
+			"definition": "Qui présente une alternance de nuances ou de reflets.",
+			"example": "un tissu rouge ondé",
+			"agreement": true,
+			"feminine": "ondée"
+		},
+		{
+			"name": "opalescent",
+			"definition": "Qui prend la teinte, les reflets irisés de l'opale.",
+			"agreement": true,
+			"feminine": "opalescente"
+		},
+		{
+			"name": "orangé",
+			"definition": "Qui tire sur l'orange.",
+			"agreement": true,
+			"feminine": "orangée",
+			"field": "orange"
+		},
+		{
+			"name": "orangeâtre",
+			"definition": "Qui tire vaguement sur l'orange.",
+			"agreement": true,
+			"field": "orange"
+		},
+		{
+			"name": "pâle",
+			"definition": "Faiblement saturé et clair.",
+			"agreement": true,
+			"applied": {
+				"plain": "blé",
+				"plainColor": "E7DE4D",
+				"qualified": "blé pâle",
+				"qualifiedColor": "DFD979"
+			}
+		},
+		{
+			"name": "pâlot",
+			"definition": "Un peu pâle.",
+			"agreement": true,
+			"feminine": "pâlotte"
+		},
+		{
+			"name": "panaché",
+			"definition": "De diverse couleurs mélangées.",
+			"note": "Voir aussi : bigarré.",
+			"agreement": true,
+			"feminine": "panachée"
+		},
+		{
+			"name": "passé",
+			"definition": "Très pâle. Qui a perdu de sa couleur au soleil.",
+			"agreement": true,
+			"feminine": "passée",
+			"applied": {
+				"plain": "vert émeraude",
+				"plainColor": "00DA60",
+				"qualified": "vert émeraude passé",
+				"qualifiedColor": "77DEA4"
+			}
+		},
+		{
+			"name": "pastel",
+			"definition": "Doux, clair, peu saturé.",
+			"note": "Si ce qualificatif s'applique souvent - et pour cause - à la couleur bleue, on le trouve aussi rattaché à d'autres teintes comme le rose, le vert ou le jaune. Il s'agit d'une référence aux crayons de pastel, qui présentent généralement des couleurs douces.",
+			"agreement": false,
+			"applied": {
+				"plain": "rose",
+				"plainColor": "FD80AB",
+				"qualified": "rose pastel",
+				"qualifiedColor": "F198B7"
+			}
+		},
+		{
+			"name": "perlé",
+			"definition": "Qui a des reflets nacrés comme la perle.",
+			"agreement": true,
+			"feminine": "perlée"
+		},
+		{
+			"name": "plombé",
+			"definition": "D'une teinte bleu grisâtre, de la couleur du plomb.",
+			"example": "un ciel plombé",
+			"agreement": true,
+			"feminine": "plombée",
+			"field": "bleu"
+		},
+		{
+			"name": "polychrome",
+			"definition": "Peint de plusieurs couleurs.",
+			"note": "Voir aussi : multicolore",
+			"agreement": true
+		},
+		{
+			"name": "poracé",
+			"definition": "Qui tire sur le vert poireau.",
+			"synonym": "vert poireau",
+			"note": "En médecine, se dit des humeurs dont la couleur tire sur le vert poireau.",
+			"example": "pus poracé",
+			"agreement": true,
+			"feminine": "poracée",
+			"field": "vert"
+		},
+		{
+			"name": "pourpré",
+			"definition": "Tirant sur le pourpre.",
+			"synonym": "pourprin, purpurin",
+			"agreement": true,
+			"feminine": "pourprée",
+			"field": "rouge"
+		},
+		{
+			"name": "pourprin",
+			"synonym": "pourpré",
+			"agreement": true,
+			"feminine": "pourprine",
+			"style": "rare",
+			"field": "rouge"
 		}
 	]
 }
