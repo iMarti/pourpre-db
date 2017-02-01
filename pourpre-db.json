@@ -4517,6 +4517,1087 @@
 					"lightness": 87
 				}
 			]
+		},
+		{
+			"name": "vert prairie",
+			"definition": "Vert herbe clair et saturé.",
+			"synonym": "vert prés",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "57D53B",
+					"fidelity": "**",
+					"hue": 110,
+					"saturation": 56,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "prasin",
+			"definition": "Vert clair et tendre.",
+			"synonym": "vert poireau",
+			"agreement": true,
+			"feminine": "prasine",
+			"etymology": "grec prason : poireau",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "4CA66B",
+					"fidelity": "*",
+					"hue": 140,
+					"saturation": 31,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "vert prasin",
+			"definition": "Vert.",
+			"agreement": true,
+			"domain": "héraldique",
+			"style": "vieilli",
+			"field": "vert"
+		},
+		{
+			"name": "vert prés",
+			"synonym": "vert prairie",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "57D53B",
+					"fidelity": "**",
+					"hue": 110,
+					"saturation": 56,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "vert printemps",
+			"definition": "Vert lumineux et tendre, vert émeraude clair.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "00FE7E",
+					"fidelity": "**",
+					"hue": 150,
+					"saturation": 87,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "prune",
+			"definition": "Violet tirant sur le bordeaux.",
+			"agreement": false,
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "811453",
+					"fidelity": "**",
+					"hue": 325,
+					"saturation": 37,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "bleu de Prusse",
+			"definition": "Bleu sombre légèrement mêlé de vert. Plus bleu que le bleu pétrole.",
+			"synonym": "bleu de Berlin",
+			"note": "On trouve aussi le synonyme rare de \"bleu hussard\". Le bleu de Prusse est du ferrocyanure de potassium.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "24445C",
+					"fidelity": "***",
+					"hue": 205,
+					"saturation": 19,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "puce",
+			"definition": "Brun-rouge foncé.",
+			"agreement": false,
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "4E1609",
+					"fidelity": "*",
+					"hue": 10,
+					"saturation": 25,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "queue-de-renard",
+			"synonym": "amarante",
+			"agreement": false,
+			"etymology": "de la fleur \"amarante queue-de-renard\" dont les fleurs en grappe rappellent la queue de cet animal",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "91283B",
+					"fidelity": "***",
+					"hue": 350,
+					"saturation": 38,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "queue de vache",
+			"definition": "Blond jaunâtre ou roux passé, pisseux, sâle.",
+			"example": "ses cheveux queue de vache",
+			"note": "C'est une référence directe à l'aspect grossier et sale du crin des queues des vaches.",
+			"agreement": false,
+			"domain": "cheveux",
+			"style": "familier",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "C3B470",
+					"fidelity": "*",
+					"hue": 50,
+					"saturation": 30,
+					"lightness": 70
+				},
+				{
+					"rgb": "A89874",
+					"fidelity": "*",
+					"hue": 42,
+					"saturation": 18,
+					"lightness": 60
+				}
+			]
+		},
+		{
+			"name": "réglisse",
+			"definition": "Brun très sombre, noirâtre. Couleur des bonbons du même nom.",
+			"example": "J'ai sur la figure, jusqu'au milieu du front, une plaque de réglisse comme les vieux matelots (Flaubert)",
+			"agreement": false,
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "2D241E",
+					"fidelity": "**",
+					"hue": 26,
+					"saturation": 5,
+					"lightness": 15
+				}
+			]
+		},
+		{
+			"name": "bleu roi",
+			"definition": "Bleu moyen soutenu, bleu du drapeau français.",
+			"synonym": "bleu France, bleu roy",
+			"agreement": false,
+			"etymology": "latin <em>rex</em>",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "318CE7",
+					"fidelity": "**",
+					"hue": 210,
+					"saturation": 62,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "rose",
+			"definition": "Rouge ou pourpre pâle. Couleur de la rose commune. Recouvre des couleurs très variées, depuis le magenta vif jusqu'au rouge pâle.",
+			"agreement": true,
+			"etymology": "latin <em>rosa</em>",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FD6C9E",
+					"fidelity": "***",
+					"hue": 340,
+					"saturation": 50,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "rouan",
+			"definition": "Robe composée de taches noires, rouges et blanches.",
+			"agreement": true,
+			"domain": "chevaux"
+		},
+		{
+			"name": "rouge",
+			"definition": "Couleur du coquelicot, du sang. Couvre des couleurs variées, depuis le rouge bordeaux jusqu'au rouge corail. Couleur primaire en synthèse additive (voir bleu et vert).",
+			"agreement": true,
+			"etymology": "latin <em>rûbeus</em> : rougeâtre",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "E21313",
+					"fidelity": "***",
+					"hue": 0,
+					"saturation": 81,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "rouille",
+			"definition": "Brun-roux.",
+			"agreement": false,
+			"etymology": "latin <em>robigo</em>",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "985717",
+					"fidelity": "**",
+					"hue": 30,
+					"saturation": 44,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "rouquin",
+			"synonym": "roux",
+			"agreement": true,
+			"feminine": "rouquine",
+			"domain": "cheveux",
+			"style": "familier",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "AD4F09",
+					"fidelity": "***",
+					"hue": 25,
+					"saturation": 56,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "roux",
+			"definition": "Orangé tirant sur le marron ou le rouge. Plus rouge que rouille.",
+			"synonym": "rouquin",
+			"agreement": true,
+			"feminine": "rousse",
+			"etymology": "latin <em>russus</em>",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "AD4F09",
+					"fidelity": "***",
+					"hue": 25,
+					"saturation": 56,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "bleu roy",
+			"synonym": "bleu roi",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "318CE7",
+					"fidelity": "**",
+					"hue": 210,
+					"saturation": 62,
+					"lightness": 50
+				}
+			]
+		},
+		{
+			"name": "rubican",
+			"definition": "Dont la robe est parsemée de poils blancs.",
+			"agreement": true,
+			"etymology": "latin <em>rapum cano</em>",
+			"domain": "chevaux"
+		},
+		{
+			"name": "sable",
+			"definition": "Beige clair.",
+			"agreement": false,
+			"etymology": "latin <em>sabulum</em>",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E0CDA9",
+					"fidelity": "**",
+					"hue": 40,
+					"saturation": 19,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "sable",
+			"definition": "Noir.",
+			"agreement": false,
+			"etymology": "russe <em>sobol</em> : zibeline",
+			"domain": "héraldique",
+			"field": "noir",
+			"colors": [
+				{
+					"rgb": "000000",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 0
+				}
+			]
+		},
+		{
+			"name": "safran",
+			"definition": "Jaune soutenu tirant sur l'orangé.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "F3D617",
+					"fidelity": "**",
+					"hue": 53,
+					"saturation": 81,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "safre",
+			"synonym": "safir",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "0131B4",
+					"fidelity": "**",
+					"hue": 225,
+					"saturation": 63,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "rouge sang",
+			"definition": "Rouge sombre brillant. Couleur du sang.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "850606",
+					"fidelity": "***",
+					"hue": 0,
+					"saturation": 50,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "sang de boeuf",
+			"definition": "Rouge sang tirant sur le marron.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "730800",
+					"fidelity": "**",
+					"hue": 4,
+					"saturation": 44,
+					"lightness": 12
+				}
+			]
+		},
+		{
+			"name": "sanguine",
+			"definition": "Rouge sang.",
+			"agreement": false,
+			"domain": "héraldique",
+			"style": "rare",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "850606",
+					"fidelity": "***",
+					"hue": 0,
+					"saturation": 50,
+					"lightness": 13
+				}
+			]
+		},
+		{
+			"name": "saphir",
+			"definition": "Bleu intense et profond. Idée de transparence.",
+			"synonym": "safre",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "0131B4",
+					"fidelity": "**",
+					"hue": 225,
+					"saturation": 63,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "vert sapin",
+			"definition": "Vert profond et sombre.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "095228",
+					"fidelity": "**",
+					"hue": 145,
+					"saturation": 25,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "sarcelle",
+			"definition": "Bleu-vert moyen.",
+			"agreement": false,
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "008E8E",
+					"fidelity": "**",
+					"hue": 180,
+					"saturation": 56,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "vert sauge",
+			"definition": "Vert-gris doux. Couleur des feuilles de la sauge commune.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "689D71",
+					"fidelity": "**",
+					"hue": 129,
+					"saturation": 19,
+					"lightness": 56
+				}
+			]
+		},
+		{
+			"name": "saumon",
+			"definition": "Rose-orangé. Couleur de la chair fumée du poisson de même nom.",
+			"agreement": false,
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "F88E55",
+					"fidelity": "***",
+					"hue": 20,
+					"saturation": 56,
+					"lightness": 63
+				}
+			]
+		},
+		{
+			"name": "senois",
+			"definition": "Entre rouge et brun.",
+			"agreement": false,
+			"domain": "héraldique",
+			"style": "rare",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "8D4024",
+					"hue": 15,
+					"saturation": 37,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "sépia",
+			"definition": "Brun clair un peu fade.",
+			"agreement": false,
+			"etymology": "italien <em>seppia</em> : la seiche, de laquelle on tirait cette couleur",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "A98C78",
+					"fidelity": "**",
+					"hue": 24,
+					"saturation": 17,
+					"lightness": 57
+				}
+			]
+		},
+		{
+			"name": "terre de Sienne",
+			"definition": "Ocre-brun clair. Quand elle est dite \"brûlée\", elle tire sur le rouge.",
+			"agreement": false,
+			"etymology": "nom propre <em>Sienna</em> : ville d'Italie",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "967C5C",
+					"fidelity": "**",
+					"hue": 33,
+					"saturation": 20,
+					"lightness": 50
+				},
+				{
+					"rgb": "8E5434",
+					"fidelity": "**",
+					"hue": 20,
+					"saturation": 31,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "sinople",
+			"definition": "Vert, généralement moyen à sombre.",
+			"agreement": true,
+			"etymology": "latin <em>Sinopis</em> : terre de la ville de Sinope, de couleur rouge",
+			"domain": "héraldique",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "149414",
+					"fidelity": "***",
+					"hue": 120,
+					"saturation": 50,
+					"lightness": 44
+				}
+			]
+		},
+		{
+			"name": "smaragdin",
+			"synonym": "emeraude",
+			"agreement": true,
+			"feminine": "smaragdine",
+			"style": "vieilli",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "01D758",
+					"fidelity": "***",
+					"hue": 144,
+					"saturation": 73,
+					"lightness": 63
+				}
+			]
+		},
+		{
+			"name": "soufre",
+			"definition": "Jaune clair. Couleur du soufre.",
+			"synonym": "fleur de soufre",
+			"variants": [ "jaune soufre" ],
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FFFF6B",
+					"fidelity": "**",
+					"hue": 60,
+					"saturation": 58,
+					"lightness": 96
+				}
+			]
+		},
+		{
+			"name": "souris",
+			"definition": "Gris moyen doux.",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "9E9E9E",
+					"fidelity": "***",
+					"hue": null,
+					"saturation": 0,
+					"lightness": 62
+				}
+			]
+		},
+		{
+			"name": "souris",
+			"definition": "Robe à poils gris, extrémités et crins noirs. Constitue, avec bai et isabelle, les trois types de robes composées.",
+			"agreement": false,
+			"domain": "chevaux"
+		},
+		{
+			"name": "tabac",
+			"definition": "Brun-roux, couleur du tabac blond.",
+			"agreement": false,
+			"etymology": "arawak <em>tzibatl</em> : tuyau servant à inhaler la fumée de tabac (Haïti)",
+			"field": "brun",
+			"colors": [
+				{
+					"rgb": "9F551E",
+					"fidelity": "**",
+					"hue": 25,
+					"saturation": 44,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "tanné",
+			"definition": "Orange très foncé.",
+			"agreement": true,
+			"domain": "héraldique",
+			"style": "rare",
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "A75502",
+					"hue": 30,
+					"saturation": 56,
+					"lightness": 38
+				}
+			]
+		},
+		{
+			"name": "taupe",
+			"definition": "Gris foncé, tirant très légèrement sur le brun.",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "463F32",
+					"fidelity": "**",
+					"hue": 39,
+					"saturation": 7,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "rose thé",
+			"definition": "Jaune rosé",
+			"agreement": false,
+			"etymology": "Chinois <em>te</em>",
+			"field": "rose",
+			"colors": [
+				{
+					"rgb": "FF866A",
+					"fidelity": "**",
+					"hue": 10,
+					"saturation": 54,
+					"lightness": 62
+				}
+			]
+		},
+		{
+			"name": "vert tilleul",
+			"definition": "Jaune-vert clair à pâle.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "A5D152",
+					"fidelity": "**",
+					"hue": 80,
+					"saturation": 44,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "tisonné",
+			"definition": "Dont la robe est semée de taches ou de traînées noirâtres.",
+			"agreement": true,
+			"feminine": "tisonnée",
+			"domain": "chevaux"
+		},
+		{
+			"name": "tomate",
+			"definition": "Rouge vif légèrement orangé. Couleur de la tomate mûre.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "DE2916",
+					"fidelity": "**",
+					"hue": 5,
+					"saturation": 75,
+					"lightness": 31
+				}
+			]
+		},
+		{
+			"name": "rouge tomette",
+			"definition": "Rouge brique clair à vif.",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "AE4A34",
+					"fidelity": "**",
+					"hue": 10,
+					"saturation": 44,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "topaze",
+			"definition": "Jaune pâle et transparent.",
+			"example": "un chat aux yeux topaze",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "FAEA73",
+					"fidelity": "*",
+					"hue": 54,
+					"saturation": 50,
+					"lightness": 90
+				}
+			]
+		},
+		{
+			"name": "gris tourdille",
+			"definition": "De couleur gris jaunâtre rappelant celle de la grive.",
+			"agreement": false,
+			"etymology": "latin <em>turdulus</em> : grive",
+			"domain": "chevaux",
+			"colors": [
+				{
+					"rgb": "C1BFB1",
+					"fidelity": "*",
+					"hue": 54,
+					"saturation": 6,
+					"lightness": 75
+				}
+			]
+		},
+		{
+			"name": "tourterelle",
+			"definition": "Gris légèrement rosé.",
+			"example": "la robe gris tourterelle de l'âne de Provence",
+			"agreement": false,
+			"field": "gris",
+			"colors": [
+				{
+					"rgb": "BBACAC",
+					"fidelity": "**",
+					"hue": 0,
+					"saturation": 6,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "blanc de Troyes",
+			"synonym": "blanc d'Espagne",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "FEFDF0",
+					"hue": 56,
+					"saturation": 5,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "rouge Turc",
+			"synonym": "rouge d'Andrinople",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "A91101",
+					"fidelity": "*",
+					"hue": 5,
+					"saturation": 63,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "bleu turquin",
+			"definition": "Bleu foncé grisé.",
+			"note": "La teinte proposée est fortement discutable.",
+			"example": "des draps bleu turquin",
+			"agreement": false,
+			"etymology": "italien <em>turchino</em> : de Turquie",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "425B8A",
+					"hue": 220,
+					"saturation": 25,
+					"lightness": 35
+				}
+			]
+		},
+		{
+			"name": "turquoise",
+			"definition": "Bleu ciel à bleu-vert clair, couleur de la pierre du même nom.",
+			"agreement": false,
+			"etymology": "<em>turquois</em> : originaire de Turquie, premier pays d'où provenait la pierre",
+			"field": "bleu",
+			"colors": [
+				{
+					"rgb": "25FDE9",
+					"fidelity": "***",
+					"hue": 175,
+					"saturation": 81,
+					"lightness": 81
+				},
+				{
+					"rgb": "1FFED8",
+					"fidelity": "***",
+					"hue": 171,
+					"saturation": 81,
+					"lightness": 80
+				}
+			]
+		},
+		{
+			"name": "vanille",
+			"definition": "Beige clair.",
+			"agreement": false,
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E1CE9A",
+					"fidelity": "**",
+					"hue": 45,
+					"saturation": 25,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "blond vénitien",
+			"definition": "Blond tirant sur le roux.",
+			"agreement": false,
+			"etymology": "nom propre <em>Venise</em> : ville d'Italie",
+			"domain": "cheveux",
+			"field": "jaune",
+			"colors": [
+				{
+					"rgb": "E7A854",
+					"fidelity": "*",
+					"hue": 35,
+					"saturation": 50,
+					"lightness": 69
+				}
+			]
+		},
+		{
+			"name": "ventre de biche",
+			"definition": "Blanc roussâtre.",
+			"agreement": false,
+			"field": "orange",
+			"colors": [
+				{
+					"rgb": "E9C9B1",
+					"fidelity": "**",
+					"hue": 25,
+					"saturation": 19,
+					"lightness": 81
+				}
+			]
+		},
+		{
+			"name": "vermeil",
+			"definition": "Rouge vif, plus foncé que l'incarnat.",
+			"example": "des chaises vermeilles",
+			"agreement": true,
+			"feminine": "vermeille",
+			"etymology": "latin <em>vermîculus</em> : cochenille",
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "FF0921",
+					"fidelity": "*",
+					"hue": 355,
+					"saturation": 92,
+					"lightness": 25
+				}
+			]
+		},
+		{
+			"name": "vermillon",
+			"definition": "Rouge vif pouvant tirer franchement sur l'orangé. Couleur du cinabre.",
+			"synonym": "cinabre",
+			"note": "Voir aussi : vermeil",
+			"agreement": false,
+			"field": "rouge",
+			"colors": [
+				{
+					"rgb": "DB1702",
+					"fidelity": "***",
+					"hue": 5,
+					"saturation": 81,
+					"lightness": 25
+				},
+				{
+					"rgb": "FD4626",
+					"fidelity": "***",
+					"hue": 8,
+					"saturation": 79,
+					"lightness": 42
+				}
+			]
+		},
+		{
+			"name": "vert Véronèse",
+			"definition": "Vert amande jaunâtre profond, caractéristique de l'oeuvre de Véronèse. Couleur de l'arsénate de cuivre.",
+			"agreement": false,
+			"etymology": "nom propre <em>Véronèse</em> : peintre italien",
+			"domain": "pigment",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "586F2D",
+					"fidelity": "**",
+					"hue": 80,
+					"saturation": 23,
+					"lightness": 40
+				}
+			]
+		},
+		{
+			"name": "vert",
+			"definition": "Couleur de l'herbe, des feuilles des arbres au printemps ou en été, de l'émeraude. Couvre toute une variété de couleurs, depuis le vert anis jusqu'au glauque. Couleur primaire en synthèse additive (voir bleu et rouge).",
+			"agreement": true,
+			"feminine": "verte",
+			"etymology": "latin <em>viridis</em> : qui a encore de la sève",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "4FD94F",
+					"fidelity": "***",
+					"hue": 120,
+					"saturation": 54,
+					"lightness": 70
+				}
+			]
+		},
+		{
+			"name": "vert de gris",
+			"definition": "Mélange de gris et de vert neutre ou légèrement bleuté. Couleur du cuivre oxydé.",
+			"agreement": false,
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "95A595",
+					"fidelity": "***",
+					"hue": 120,
+					"saturation": 6,
+					"lightness": 63
+				}
+			]
+		},
+		{
+			"name": "vert de vessie",
+			"definition": "Vert herbe foncé.",
+			"agreement": false,
+			"etymology": "latin <em>vêsîca</em>",
+			"field": "vert",
+			"colors": [
+				{
+					"rgb": "22780F",
+					"fidelity": "**",
+					"hue": 110,
+					"saturation": 38,
+					"lightness": 37
+				}
+			]
+		},
+		{
+			"name": "violet",
+			"definition": "Couleur de la violette, de l'améthyste. Plus généralement, est utilisé pour nommer toutes sortes de couleurs, depuis le bleu lavande jusqu'au zinzolin.",
+			"agreement": true,
+			"feminine": "violette",
+			"etymology": "latin <em>viola</em>",
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "8806CE",
+					"fidelity": "***",
+					"hue": 280,
+					"saturation": 69,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "violine",
+			"definition": "Violet pourpre.",
+			"agreement": true,
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "A10684",
+					"fidelity": "**",
+					"hue": 310,
+					"saturation": 56,
+					"lightness": 19
+				}
+			]
+		},
+		{
+			"name": "zain",
+			"definition": "Dont la robe, toute d'une couleur, n'a aucun poil blanc. Par extension, s'applique aussi à d'autres espèces (chien, chat).",
+			"agreement": true,
+			"etymology": "espagnol <em>zaino</em>",
+			"domain": "chevaux"
+		},
+		{
+			"name": "blanc de zinc",
+			"definition": "Blanc légèrement bleuâtre.",
+			"agreement": false,
+			"domain": "pigment",
+			"field": "blanc",
+			"colors": [
+				{
+					"rgb": "F6FEFE",
+					"fidelity": "*",
+					"hue": 180,
+					"saturation": 3,
+					"lightness": 99
+				}
+			]
+		},
+		{
+			"name": "zinzolin",
+			"definition": "Violacé rougeâtre et délicat.",
+			"note": "Reste parfois invariable au féminin.",
+			"example": "une étoffe zinzolin(e)",
+			"agreement": true,
+			"feminine": "zinzoline",
+			"etymology": "arabe <em>djoldjolân</em> : sésame, dont on se servait pour fabriquer cette couleur",
+			"field": "violet",
+			"colors": [
+				{
+					"rgb": "6C0277",
+					"fidelity": "*",
+					"hue": 295,
+					"saturation": 44,
+					"lightness": 13
+				}
+			]
 		}
 	],
 	"qualifiers": [
@@ -5666,6 +6747,380 @@
 			"feminine": "pourprine",
 			"style": "rare",
 			"field": "rouge"
+		},
+		{
+			"name": "profond",
+			"definition": "Intense et moyennement foncé à foncé.",
+			"agreement": true,
+			"feminine": "profonde",
+			"applied": {
+				"plain": "cerise",
+				"plainColor": "E50000",
+				"qualified": "cerise profond",
+				"qualifiedColor": "C20F0F"
+			}
+		},
+		{
+			"name": "purpuracé",
+			"definition": "De couleur pourpre, tirant sur le pourpre.",
+			"note": "Se dit de formations pathologiques dont la nuance est plus violacée que la teinte normale des téguments sains. Ce terme fait référence au purpura, pathologie caractérisée par des taches cutanées rouge-violet foncé, dues à des hémorragies intra-cutanées.",
+			"agreement": true,
+			"feminine": "purpuracée",
+			"domain": "médical",
+			"field": "rouge"
+		},
+		{
+			"name": "purpurin",
+			"synonym": "pourpré",
+			"agreement": true,
+			"feminine": "purpurine",
+			"field": "rouge"
+		},
+		{
+			"name": "rabattu",
+			"definition": "Foncé et lavé",
+			"agreement": true,
+			"feminine": "rabattue",
+			"applied": {
+				"plain": "vert",
+				"plainColor": "41E548",
+				"qualified": "vert rabattu",
+				"qualifiedColor": "658266"
+			}
+		},
+		{
+			"name": "rosacé",
+			"definition": "De couleur rose, tirant sur le rose.",
+			"agreement": true,
+			"field": "rose"
+		},
+		{
+			"name": "rosâtre",
+			"definition": "D'un rose indécis ou sale.",
+			"agreement": true,
+			"field": "rose"
+		},
+		{
+			"name": "rosé",
+			"definition": "Teinté de rose ou de rouge pâle.",
+			"agreement": true,
+			"feminine": "rosée",
+			"field": "rose"
+		},
+		{
+			"name": "rosi",
+			"definition": "Qui a pris une teinte rose.",
+			"note": "Verbe : rosir",
+			"agreement": true,
+			"feminine": "rosie",
+			"field": "rose"
+		},
+		{
+			"name": "rougeâtre",
+			"definition": "Dont la teinte tire sur le rouge.",
+			"agreement": true,
+			"field": "rouge"
+		},
+		{
+			"name": "rougeaud",
+			"definition": "D'un rouge vineux.",
+			"agreement": true,
+			"feminine": "rougeaude",
+			"domain": "peau",
+			"field": "rouge"
+		},
+		{
+			"name": "rougeoyant",
+			"definition": "Qui se colore de nuances de rouge, qui a des reflets rouges et changeants.",
+			"note": "Verbe : rougeoyer",
+			"agreement": true,
+			"feminine": "rougeoyante",
+			"field": "rouge"
+		},
+		{
+			"name": "rougi",
+			"definition": "Qui a pris une teinte rouge.",
+			"note": "Verbe : rougir",
+			"agreement": true,
+			"feminine": "rougie",
+			"field": "rouge"
+		},
+		{
+			"name": "roussâtre",
+			"definition": "Dont la teinte tire sur le roux.",
+			"agreement": true,
+			"field": "orange"
+		},
+		{
+			"name": "roussi",
+			"definition": "Qui a pris une teinte rousse.",
+			"note": "Verbe : roussir",
+			"agreement": true,
+			"feminine": "roussie",
+			"field": "orange"
+		},
+		{
+			"name": "rubescent",
+			"definition": "Qui est légèrement rouge.",
+			"note": "L'amanite rubescente se reconnaît à ses squames gris rougeâtres. Sa chair prend une couleur vineuse à la coupe.",
+			"agreement": true,
+			"feminine": "rubescente",
+			"field": "rouge"
+		},
+		{
+			"name": "rubicond",
+			"definition": "Très rouge de peau.",
+			"example": "un teint rubicond",
+			"agreement": true,
+			"feminine": "rubiconde",
+			"domain": "peau",
+			"field": "rouge"
+		},
+		{
+			"name": "rubigineux",
+			"definition": "De couleur rouille.",
+			"agreement": true,
+			"feminine": "rubigineuse",
+			"field": "brun"
+		},
+		{
+			"name": "rutilant",
+			"definition": "Qui est d'un rouge éclatant, d'un roux flamboyant ou qui est teinté de reflets pourpres.",
+			"synonym": "flamboyant",
+			"agreement": true,
+			"feminine": "rutilante",
+			"field": "rouge"
+		},
+		{
+			"name": "rutilant",
+			"definition": "Vif, lumineux, voire criard.",
+			"example": "un ciel rutilant",
+			"agreement": true,
+			"feminine": "rutilante"
+		},
+		{
+			"name": "safrané",
+			"definition": "De couleur safran, tirant sur le jaune safran.",
+			"agreement": true,
+			"feminine": "safranée",
+			"field": "jaune"
+		},
+		{
+			"name": "saturé",
+			"definition": "Haut en couleur.",
+			"agreement": true,
+			"feminine": "saturée",
+			"applied": {
+				"plain": "vert",
+				"plainColor": "6B9E78",
+				"qualified": "vert saturé",
+				"qualifiedColor": "4BB165"
+			}
+		},
+		{
+			"name": "saumoné",
+			"definition": "De couleur saumon, ou approchant cette couleur.",
+			"agreement": true,
+			"feminine": "saumonée",
+			"field": "rose"
+		},
+		{
+			"name": "scintillant",
+			"definition": "Qui brille de façon irrégulière, plus ou moins fortement.",
+			"example": "les vagues bleu scintillant",
+			"agreement": true,
+			"feminine": "scintillante"
+		},
+		{
+			"name": "sombre",
+			"definition": "Saturé et foncé.",
+			"agreement": true,
+			"applied": {
+				"plain": "gris",
+				"plainColor": "6F7588",
+				"qualified": "gris sombre",
+				"qualifiedColor": "272D41"
+			}
+		},
+		{
+			"name": "sourd",
+			"definition": "Peu éclantant, mat.",
+			"agreement": true,
+			"feminine": "sourde",
+			"applied": {
+				"plain": "jaune",
+				"plainColor": "F4E600",
+				"qualified": "jaune sourd",
+				"qualifiedColor": "D0C736"
+			}
+		},
+		{
+			"name": "soutenu",
+			"definition": "Saturé. Franc et intense.",
+			"agreement": true,
+			"feminine": "soutenue",
+			"applied": {
+				"plain": "amande",
+				"plainColor": "64A945",
+				"qualified": "amande soutenu",
+				"qualifiedColor": "5BB233"
+			}
+		},
+		{
+			"name": "tendre",
+			"definition": "Clair et délicat. En parlant d'un vert: moyennement saturé et légèrement bleuté.",
+			"agreement": true,
+			"applied": {
+				"plain": "vert",
+				"plainColor": "24E348",
+				"qualified": "vert tendre",
+				"qualifiedColor": "37DA70"
+			}
+		},
+		{
+			"name": "terne",
+			"definition": "Sans éclat, fade.",
+			"agreement": true,
+			"applied": {
+				"plain": "orange",
+				"plainColor": "EF9901",
+				"qualified": "orange terne",
+				"qualifiedColor": "DD8732"
+			}
+		},
+		{
+			"name": "testacé",
+			"definition": "Qui rappelle la couleur de la terre cuite, ou celle de certaines coquilles.",
+			"note": "Signfie aussi recouvert d'une écaille ou d'une coquille.",
+			"example": "Un thorax gris testacé",
+			"agreement": true,
+			"feminine": "testacée",
+			"etymology": "latin <em>testa</em> : tête"
+		},
+		{
+			"name": "unicolore",
+			"definition": "D'une seule couleur.",
+			"note": "Voire aussi : monochrome, concolore",
+			"agreement": true
+		},
+		{
+			"name": "vairon",
+			"definition": "De couleur incertaine ou variée.",
+			"note": "Dans l'expression \"des yeux vairons\": des yeux qui n'ont pas la même couleur.",
+			"agreement": true,
+			"etymology": "latin <em>varius</em>"
+		},
+		{
+			"name": "velouté",
+			"definition": "Moyennement chaud sans être trop clair.",
+			"agreement": true,
+			"feminine": "veloutée",
+			"applied": {
+				"plain": "parme",
+				"plainColor": "CDA7F3",
+				"qualified": "parme velouté",
+				"qualifiedColor": "BB88FD"
+			}
+		},
+		{
+			"name": "verdâtre",
+			"definition": "Qui tire vaguement sur le vert.",
+			"agreement": true,
+			"field": "vert",
+			"applied": {
+				"plain": "bleu",
+				"plainColor": "168AFF",
+				"qualified": "bleu verdâtre",
+				"qualifiedColor": "009EC6"
+			}
+		},
+		{
+			"name": "verdi",
+			"definition": "Qui a pris une coloration verte.",
+			"note": "Verbe : verdir",
+			"agreement": true,
+			"feminine": "verdie",
+			"field": "vert"
+		},
+		{
+			"name": "verdoyant",
+			"definition": "Qui se colore de nuances de vert (en parlant de la végétation), qui a des reflets verts et changeants.",
+			"note": "Verbe : verdoyer",
+			"agreement": true,
+			"feminine": "verdoyante",
+			"field": "vert"
+		},
+		{
+			"name": "vibrant",
+			"definition": "Qui est très lumineux, chatoyant.",
+			"example": "un tissu d'un violet vibrant",
+			"agreement": true,
+			"feminine": "vibrante"
+		},
+		{
+			"name": "vieux",
+			"definition": "Pâle, grisâtre.",
+			"agreement": true,
+			"feminine": "vieille",
+			"applied": {
+				"plain": "rose",
+				"plainColor": "FE4BA5",
+				"qualified": "vieux rose",
+				"qualifiedColor": "EC9FC5"
+			}
+		},
+		{
+			"name": "vif",
+			"definition": "Intense, éclatant.",
+			"agreement": true,
+			"feminine": "vive",
+			"applied": {
+				"plain": "mauve",
+				"plainColor": "C55FC5",
+				"qualified": "mauve vif",
+				"qualifiedColor": "E781E7"
+			}
+		},
+		{
+			"name": "vineux",
+			"definition": "De la couleur du vin rouge, qui tire sur le rouge-violacé.",
+			"note": "Voir aussi : bourgogne, bordeaux",
+			"agreement": true,
+			"feminine": "vineuse",
+			"field": "violet",
+			"applied": {
+				"plain": "gris",
+				"plainColor": "878787",
+				"qualified": "gris vineux",
+				"qualifiedColor": "988793"
+			}
+		},
+		{
+			"name": "violacé",
+			"definition": "Dont la teinte tire sur le violet.",
+			"agreement": true,
+			"feminine": "violacée",
+			"field": "violet"
+		},
+		{
+			"name": "violâtre",
+			"definition": "Qui tire vaguement sur le violet.",
+			"agreement": true,
+			"field": "violet"
+		},
+		{
+			"name": "violeté",
+			"definition": "Teinté de violet.",
+			"agreement": true,
+			"feminine": "violetée"
+		},
+		{
+			"name": "viride",
+			"definition": "Qui tire sur le vert.",
+			"agreement": true,
+			"etymology": "latin <em>viridis</em> : vert, verdoyant",
+			"style": "littéraire",
+			"field": "vert"
 		}
 	]
 }

@@ -64,11 +64,11 @@
 					},
 					"domain": {
 						"type": "string",
-																					"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture", "cigare", "céramique", "reliure", "mode", "tissu", "aquarelle" ]
+						"enum": [ "cheveux", "chevaux", "pigment", "héraldique", "minéraux", "peau", "médical", "bovins", "peinture", "cigare", "céramique", "reliure", "mode", "tissu", "aquarelle" ]
 					},
 					"style": {
 						"type": "string",
-						"enum": [ "vieilli", "péjoratif", "rare", "littéraire" ]
+						"enum": [ "vieilli", "péjoratif", "rare", "littéraire", "familier" ]
 					}
 				},
 				"required": [
